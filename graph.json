@@ -1,0 +1,3353 @@
+{
+ "nodes": [
+  {
+   "id": "note:LOT-88001",
+   "kind": "note",
+   "ref": "LOT-88001",
+   "title": "LOT-88001 batch of Solstice Beaker",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 1,
+   "text": "LOT-88001 is a batch of SKU-001 (Solstice Beaker), quantity 960, manufactured on 2025-07-08 and expiring on 2028-07-28. Current status: quarantined. Inspected by L. Brandt. Safety protocol: [[SOP-01]]. Product record: [[SKU-001]]."
+  },
+  {
+   "id": "note:LOT-88008",
+   "kind": "note",
+   "ref": "LOT-88008",
+   "title": "LOT-88008 batch of Ember Wrap",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "LOT-88008 is a batch of SKU-036 (Ember Wrap), quantity 480, manufactured on 2025-08-05 and expiring on 2027-08-28. Current status: released. Inspected by T. Moreau. Safety protocol: [[SOP-04]]. Product record: [[SKU-036]]."
+  },
+  {
+   "id": "note:LOT-88015",
+   "kind": "note",
+   "ref": "LOT-88015",
+   "title": "LOT-88015 batch of Meridian Liner",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 4,
+   "text": "LOT-88015 is a batch of SKU-040 (Meridian Liner), quantity 960, manufactured on 2026-09-15 and expiring on 2027-09-28. Current status: quarantined. Inspected by L. Brandt. Safety protocol: [[SOP-08]]. Product record: [[SKU-040]]."
+  },
+  {
+   "id": "note:LOT-88022",
+   "kind": "note",
+   "ref": "LOT-88022",
+   "title": "LOT-88022 batch of Pinnacle Cartridge",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 3,
+   "text": "LOT-88022 is a batch of SKU-017 (Pinnacle Cartridge), quantity 240, manufactured on 2026-09-16 and expiring on 2027-09-28. Current status: quarantined. Inspected by J. Lindqvist. Safety protocol: [[SOP-01]]. Product record: [[SKU-017]]."
+  },
+  {
+   "id": "note:LOT-88029",
+   "kind": "note",
+   "ref": "LOT-88029",
+   "title": "LOT-88029 batch of Cascade Gauze",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 5,
+   "text": "LOT-88029 is a batch of SKU-029 (Cascade Gauze), quantity 480, manufactured on 2026-04-09 and expiring on 2027-04-28. Current status: released. Inspected by S. Iyer. Safety protocol: [[SOP-05]]. Product record: [[SKU-029]]."
+  },
+  {
+   "id": "note:LOT-88036",
+   "kind": "note",
+   "ref": "LOT-88036",
+   "title": "LOT-88036 batch of Obsidian Adhesive",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "LOT-88036 is a batch of SKU-006 (Obsidian Adhesive), quantity 240, manufactured on 2025-07-23 and expiring on 2026-07-28. Current status: released. Inspected by L. Brandt. Safety protocol: [[SOP-06]]. Product record: [[SKU-006]]."
+  },
+  {
+   "id": "note:LOT-88043",
+   "kind": "note",
+   "ref": "LOT-88043",
+   "title": "LOT-88043 batch of Borealis Coolant",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "LOT-88043 is a batch of SKU-027 (Borealis Coolant), quantity 960, manufactured on 2026-07-02 and expiring on 2027-07-28. Current status: released. Inspected by L. Brandt. Safety protocol: [[SOP-03]]. Product record: [[SKU-027]]."
+  },
+  {
+   "id": "note:LOT-88050",
+   "kind": "note",
+   "ref": "LOT-88050",
+   "title": "LOT-88050 batch of Zephyr Cell Pack",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 3,
+   "text": "LOT-88050 is a batch of SKU-038 (Zephyr Cell Pack), quantity 120, manufactured on 2025-10-13 and expiring on 2029-10-28. Current status: recalled. Inspected by T. Moreau. Safety protocol: [[SOP-06]]. Product record: [[SKU-038]]."
+  },
+  {
+   "id": "note:LOT-88057",
+   "kind": "note",
+   "ref": "LOT-88057",
+   "title": "LOT-88057 batch of Nimbus Sealant",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 4,
+   "text": "LOT-88057 is a batch of SKU-020 (Nimbus Sealant), quantity 240, manufactured on 2026-09-24 and expiring on 2028-09-28. Current status: quarantined. Inspected by J. Lindqvist. Safety protocol: [[SOP-04]]. Product record: [[SKU-020]]."
+  },
+  {
+   "id": "note:LOT-88064",
+   "kind": "note",
+   "ref": "LOT-88064",
+   "title": "LOT-88064 batch of Ember Canister",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 6,
+   "text": "LOT-88064 is a batch of SKU-015 (Ember Canister), quantity 960, manufactured on 2026-01-13 and expiring on 2027-01-28. Current status: released. Inspected by S. Iyer. Safety protocol: [[SOP-07]]. Product record: [[SKU-015]]."
+  },
+  {
+   "id": "note:LOT-88071",
+   "kind": "note",
+   "ref": "LOT-88071",
+   "title": "LOT-88071 batch of Obsidian Gauze",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 5,
+   "text": "LOT-88071 is a batch of SKU-011 (Obsidian Gauze), quantity 960, manufactured on 2025-10-18 and expiring on 2029-10-28. Current status: quarantined. Inspected by M. Okafor. Safety protocol: [[SOP-03]]. Product record: [[SKU-011]]."
+  },
+  {
+   "id": "note:LOT-88078",
+   "kind": "note",
+   "ref": "LOT-88078",
+   "title": "LOT-88078 batch of Mosaic Flask",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 2,
+   "text": "LOT-88078 is a batch of SKU-037 (Mosaic Flask), quantity 960, manufactured on 2025-11-14 and expiring on 2027-11-28. Current status: quarantined. Inspected by L. Brandt. Safety protocol: [[SOP-05]]. Product record: [[SKU-037]]."
+  },
+  {
+   "id": "note:LOT-88085",
+   "kind": "note",
+   "ref": "LOT-88085",
+   "title": "LOT-88085 batch of Tundra Cell Pack",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "LOT-88085 is a batch of SKU-004 (Tundra Cell Pack), quantity 480, manufactured on 2026-04-15 and expiring on 2029-04-28. Current status: released. Inspected by S. Iyer. Safety protocol: [[SOP-04]]. Product record: [[SKU-004]]."
+  },
+  {
+   "id": "note:LOT-88092",
+   "kind": "note",
+   "ref": "LOT-88092",
+   "title": "LOT-88092 batch of Radiant Adhesive",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 1,
+   "text": "LOT-88092 is a batch of SKU-018 (Radiant Adhesive), quantity 960, manufactured on 2026-05-27 and expiring on 2028-05-28. Current status: quarantined. Inspected by M. Okafor. Safety protocol: [[SOP-02]]. Product record: [[SKU-018]]."
+  },
+  {
+   "id": "note:LOT-88099",
+   "kind": "note",
+   "ref": "LOT-88099",
+   "title": "LOT-88099 batch of Meridian Pipette Set",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "LOT-88099 is a batch of SKU-035 (Meridian Pipette Set), quantity 120, manufactured on 2026-04-21 and expiring on 2030-04-28. Current status: released. Inspected by M. Okafor. Safety protocol: [[SOP-03]]. Product record: [[SKU-035]]."
+  },
+  {
+   "id": "note:LOT-88106",
+   "kind": "note",
+   "ref": "LOT-88106",
+   "title": "LOT-88106 batch of Halcyon Wrap",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "LOT-88106 is a batch of SKU-016 (Halcyon Wrap), quantity 240, manufactured on 2025-10-05 and expiring on 2028-10-28. Current status: released. Inspected by L. Brandt. Safety protocol: [[SOP-08]]. Product record: [[SKU-016]]."
+  },
+  {
+   "id": "note:LOT-88113",
+   "kind": "note",
+   "ref": "LOT-88113",
+   "title": "LOT-88113 batch of Summit Liner",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 2,
+   "text": "LOT-88113 is a batch of SKU-008 (Summit Liner), quantity 480, manufactured on 2025-08-23 and expiring on 2025-08-28. Current status: released. Inspected by S. Iyer. Safety protocol: [[SOP-08]]. Product record: [[SKU-008]]."
+  },
+  {
+   "id": "note:LOT-88120",
+   "kind": "note",
+   "ref": "LOT-88120",
+   "title": "LOT-88120 batch of Quartz Wrap",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 3,
+   "text": "LOT-88120 is a batch of SKU-039 (Quartz Wrap), quantity 120, manufactured on 2025-03-10 and expiring on 2026-03-28. Current status: quarantined. Inspected by M. Okafor. Safety protocol: [[SOP-07]]. Product record: [[SKU-039]]."
+  },
+  {
+   "id": "note:LOT-88127",
+   "kind": "note",
+   "ref": "LOT-88127",
+   "title": "LOT-88127 batch of Mosaic Flask",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 5,
+   "text": "LOT-88127 is a batch of SKU-037 (Mosaic Flask), quantity 120, manufactured on 2026-07-23 and expiring on 2028-07-28. Current status: quarantined. Inspected by L. Brandt. Safety protocol: [[SOP-05]]. Product record: [[SKU-037]]."
+  },
+  {
+   "id": "note:LOT-88134",
+   "kind": "note",
+   "ref": "LOT-88134",
+   "title": "LOT-88134 batch of Halcyon Wrap",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "LOT-88134 is a batch of SKU-016 (Halcyon Wrap), quantity 120, manufactured on 2026-11-20 and expiring on 2029-11-28. Current status: released. Inspected by M. Okafor. Safety protocol: [[SOP-08]]. Product record: [[SKU-016]]."
+  },
+  {
+   "id": "note:LOT-88141",
+   "kind": "note",
+   "ref": "LOT-88141",
+   "title": "LOT-88141 batch of Meridian Pipette Set",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "LOT-88141 is a batch of SKU-035 (Meridian Pipette Set), quantity 480, manufactured on 2026-02-17 and expiring on 2030-02-28. Current status: released. Inspected by J. Lindqvist. Safety protocol: [[SOP-03]]. Product record: [[SKU-035]]."
+  },
+  {
+   "id": "note:LOT-88148",
+   "kind": "note",
+   "ref": "LOT-88148",
+   "title": "LOT-88148 batch of Borealis Coolant",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 6,
+   "text": "LOT-88148 is a batch of SKU-027 (Borealis Coolant), quantity 960, manufactured on 2025-07-12 and expiring on 2026-07-28. Current status: quarantined. Inspected by J. Lindqvist. Safety protocol: [[SOP-03]]. Product record: [[SKU-027]]."
+  },
+  {
+   "id": "note:LOT-88155",
+   "kind": "note",
+   "ref": "LOT-88155",
+   "title": "LOT-88155 batch of Meridian Solvent",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "LOT-88155 is a batch of SKU-010 (Meridian Solvent), quantity 960, manufactured on 2026-10-26 and expiring on 2027-10-28. Current status: released. Inspected by R. Castillo. Safety protocol: [[SOP-02]]. Product record: [[SKU-010]]."
+  },
+  {
+   "id": "note:LOT-88162",
+   "kind": "note",
+   "ref": "LOT-88162",
+   "title": "LOT-88162 batch of Mosaic Gauze",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 3,
+   "text": "LOT-88162 is a batch of SKU-028 (Mosaic Gauze), quantity 120, manufactured on 2026-06-28 and expiring on 2027-06-28. Current status: quarantined. Inspected by L. Brandt. Safety protocol: [[SOP-04]]. Product record: [[SKU-028]]."
+  },
+  {
+   "id": "note:LOT-88169",
+   "kind": "note",
+   "ref": "LOT-88169",
+   "title": "LOT-88169 batch of Cascade Gauze",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "LOT-88169 is a batch of SKU-029 (Cascade Gauze), quantity 960, manufactured on 2026-10-20 and expiring on 2027-10-28. Current status: released. Inspected by J. Lindqvist. Safety protocol: [[SOP-05]]. Product record: [[SKU-029]]."
+  },
+  {
+   "id": "note:LOT-88176",
+   "kind": "note",
+   "ref": "LOT-88176",
+   "title": "LOT-88176 batch of Nimbus Flask",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "LOT-88176 is a batch of SKU-002 (Nimbus Flask), quantity 480, manufactured on 2026-03-16 and expiring on 2030-03-28. Current status: released. Inspected by L. Brandt. Safety protocol: [[SOP-02]]. Product record: [[SKU-002]]."
+  },
+  {
+   "id": "note:LOT-88183",
+   "kind": "note",
+   "ref": "LOT-88183",
+   "title": "LOT-88183 batch of Summit Wrap",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "LOT-88183 is a batch of SKU-022 (Summit Wrap), quantity 240, manufactured on 2026-09-01 and expiring on 2030-09-28. Current status: released. Inspected by R. Castillo. Safety protocol: [[SOP-06]]. Product record: [[SKU-022]]."
+  },
+  {
+   "id": "note:LOT-88190",
+   "kind": "note",
+   "ref": "LOT-88190",
+   "title": "LOT-88190 batch of Halcyon Wrap",
+   "domain": "inventory",
+   "risk_tier": 3,
+   "version": 6,
+   "text": "LOT-88190 is a batch of SKU-016 (Halcyon Wrap), quantity 960, manufactured on 2026-09-25 and expiring on 2029-09-28. Current status: quarantined. Inspected by L. Brandt. Safety protocol: [[SOP-08]]. Product record: [[SKU-016]]."
+  },
+  {
+   "id": "note:LOT-88197",
+   "kind": "note",
+   "ref": "LOT-88197",
+   "title": "LOT-88197 batch of Mosaic Pipette Set",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 6,
+   "text": "LOT-88197 is a batch of SKU-032 (Mosaic Pipette Set), quantity 960, manufactured on 2025-02-10 and expiring on 2026-02-28. Current status: released. Inspected by L. Brandt. Safety protocol: [[SOP-08]]. Product record: [[SKU-032]]."
+  },
+  {
+   "id": "note:LOT-88204",
+   "kind": "note",
+   "ref": "LOT-88204",
+   "title": "LOT-88204 batch of Halcyon Wrap",
+   "domain": "inventory",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "LOT-88204 is a batch of SKU-016 (Halcyon Wrap), quantity 480, manufactured on 2026-08-18 and expiring on 2029-08-28. Current status: released. Inspected by R. Castillo. Safety protocol: [[SOP-08]]. Product record: [[SKU-016]]."
+  },
+  {
+   "id": "note:POL-01",
+   "kind": "note",
+   "ref": "POL-01",
+   "title": "POL-01 Beverage Equipment returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 2,
+   "text": "POL-01 - Beverage Equipment returns and approvals. The return window for Beverage Equipment is 14 days from delivery. Orders exceeding $1,000 need sign-off by the Operations Director. Records must be kept 7 years. See [[SOP-01]] for handling steps."
+  },
+  {
+   "id": "note:POL-02",
+   "kind": "note",
+   "ref": "POL-02",
+   "title": "POL-02 Cold Chain Reagents returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "Policy POL-02 governs Cold Chain Reagents returns and approvals. Customers may return Cold Chain Reagents within 21 days of delivery. Any single order above $2,500 requires written approval from the Quality Director. Return records are retained for 3 years. Handling follows [[SOP-02]]."
+  },
+  {
+   "id": "note:POL-03",
+   "kind": "note",
+   "ref": "POL-03",
+   "title": "POL-03 Industrial Adhesives returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "Policy POL-03 governs Industrial Adhesives returns and approvals. Customers may return Industrial Adhesives within 60 days of delivery. Any single order above $1,000 requires written approval from the Operations Director. Return records are retained for 10 years. Handling follows [[SOP-03]]."
+  },
+  {
+   "id": "note:POL-04",
+   "kind": "note",
+   "ref": "POL-04",
+   "title": "POL-04 Medical Consumables returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "POL-04 - Medical Consumables returns and approvals. The return window for Medical Consumables is 14 days from delivery. Orders exceeding $1,000 need sign-off by the Regional Manager. Records must be kept 5 years. See [[SOP-04]] for handling steps."
+  },
+  {
+   "id": "note:POL-05",
+   "kind": "note",
+   "ref": "POL-05",
+   "title": "POL-05 Packaging Film returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "POL-05 - Packaging Film returns and approvals. The return window for Packaging Film is 60 days from delivery. Orders exceeding $10,000 need sign-off by the Quality Director. Records must be kept 3 years. See [[SOP-05]] for handling steps."
+  },
+  {
+   "id": "note:POL-06",
+   "kind": "note",
+   "ref": "POL-06",
+   "title": "POL-06 Lab Glassware returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "POL-06 - Lab Glassware returns and approvals. The return window for Lab Glassware is 21 days from delivery. Orders exceeding $10,000 need sign-off by the Safety Officer. Records must be kept 10 years. See [[SOP-06]] for handling steps."
+  },
+  {
+   "id": "note:POL-07",
+   "kind": "note",
+   "ref": "POL-07",
+   "title": "POL-07 Battery Modules returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 5,
+   "text": "POL-07 - Battery Modules returns and approvals. The return window for Battery Modules is 45 days from delivery. Orders exceeding $10,000 need sign-off by the Quality Director. Records must be kept 7 years. See [[SOP-07]] for handling steps."
+  },
+  {
+   "id": "note:POL-08",
+   "kind": "note",
+   "ref": "POL-08",
+   "title": "POL-08 Cleaning Solvents returns and approvals",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "Policy POL-08 governs Cleaning Solvents returns and approvals. Customers may return Cleaning Solvents within 21 days of delivery. Any single order above $7,500 requires written approval from the Regional Manager. Return records are retained for 7 years. Handling follows [[SOP-08]]."
+  },
+  {
+   "id": "note:POL-09",
+   "kind": "note",
+   "ref": "POL-09",
+   "title": "POL-09 Data retention",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "Policy POL-09 (Data retention). Operational logs are retained for 13 months and audit logs for 7 years. Personal data is never stored in raw form; it is redacted before persistence. Deletion requests are completed within 30 days by the Compliance Officer."
+  },
+  {
+   "id": "note:POL-10",
+   "kind": "note",
+   "ref": "POL-10",
+   "title": "POL-10 Expense approval",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 5,
+   "text": "Policy POL-10 (Expense approval). Expenses up to $500 are approved by the line manager. Expenses between $500 and $5,000 need the Finance Controller. Anything above $5,000 requires the Operations Director."
+  },
+  {
+   "id": "note:POL-11",
+   "kind": "note",
+   "ref": "POL-11",
+   "title": "POL-11 Supplier onboarding",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "Policy POL-11 (Supplier onboarding). New suppliers complete a security questionnaire and a quality audit before first purchase. Onboarding takes at most 20 business days and is owned by the Quality Director. See [[SOP-10]]."
+  },
+  {
+   "id": "note:POL-12",
+   "kind": "note",
+   "ref": "POL-12",
+   "title": "POL-12 Incident reporting",
+   "domain": "policy",
+   "risk_tier": 2,
+   "version": 6,
+   "text": "Policy POL-12 (Incident reporting). Safety incidents must be reported within 4 hours. Reports go to the Safety Officer, who notifies the Regional Manager within 24 hours. Recalls follow [[SOP-05]]."
+  },
+  {
+   "id": "note:SKU-001",
+   "kind": "note",
+   "ref": "SKU-001",
+   "title": "SKU-001 Solstice Beaker",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 5,
+   "text": "Product SKU-001 - Solstice Beaker (Beverage Equipment). Unit price $381.03; MOQ 48 units. It keeps for 36 months at 10\u00b0C to 25\u00b0C. Supplied by Kestrel Industrial from warehouse Leipzig-1. Return rules are in [[POL-01]] and storage rules in [[SOP-01]]."
+  },
+  {
+   "id": "note:SKU-002",
+   "kind": "note",
+   "ref": "SKU-002",
+   "title": "SKU-002 Nimbus Flask",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 3,
+   "text": "The Nimbus Flask (SKU-002) belongs to Cold Chain Reagents. It costs $327.81 each, ordered in lots of at least 6. Its shelf life is 48 months, stored at 5\u00b0C-11\u00b0C. Our supplier is Granite Packaging; the item ships from Singapore-3. Refer to [[POL-02]] for returns and [[SOP-02]] for storage."
+  },
+  {
+   "id": "note:SKU-003",
+   "kind": "note",
+   "ref": "SKU-003",
+   "title": "SKU-003 Lattice Beaker",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 6,
+   "text": "SKU-003 is the Lattice Beaker, part of the Industrial Adhesives category. List price is $219.97 per unit with a minimum order quantity of 24. Shelf life is 36 months when stored between -20\u00b0C and -10\u00b0C. Supplier: BlueFern Supply. Stocked at Toronto-2. Returns: [[POL-03]]. Storage: [[SOP-03]]."
+  },
+  {
+   "id": "note:SKU-004",
+   "kind": "note",
+   "ref": "SKU-004",
+   "title": "SKU-004 Tundra Cell Pack",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 4,
+   "text": "Product SKU-004 - Tundra Cell Pack (Medical Consumables). Unit price $76.75; MOQ 12 units. It keeps for 36 months at 15\u00b0C to 25\u00b0C. Supplied by Granite Packaging from warehouse Rotterdam-2. Return rules are in [[POL-04]] and storage rules in [[SOP-04]]."
+  },
+  {
+   "id": "note:SKU-005",
+   "kind": "note",
+   "ref": "SKU-005",
+   "title": "SKU-005 Aurora Dressing",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Aurora Dressing (SKU-005) belongs to Packaging Film. It costs $446.25 each, ordered in lots of at least 24. Its shelf life is 12 months, stored at 15\u00b0C-21\u00b0C. Our supplier is Northwind Labs; the item ships from Austin-1. Refer to [[POL-05]] for returns and [[SOP-05]] for storage."
+  },
+  {
+   "id": "note:SKU-006",
+   "kind": "note",
+   "ref": "SKU-006",
+   "title": "SKU-006 Obsidian Adhesive",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 3,
+   "text": "SKU-006 is the Obsidian Adhesive, part of the Lab Glassware category. List price is $469.52 per unit with a minimum order quantity of 100. Shelf life is 12 months when stored between 10\u00b0C and 18\u00b0C. Supplier: BlueFern Supply. Stocked at Osaka-1. Returns: [[POL-06]]. Storage: [[SOP-06]]."
+  },
+  {
+   "id": "note:SKU-007",
+   "kind": "note",
+   "ref": "SKU-007",
+   "title": "SKU-007 Tundra Gauze",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 6,
+   "text": "Product SKU-007 - Tundra Gauze (Battery Modules). Unit price $463.04; MOQ 100 units. It keeps for 48 months at 5\u00b0C to 20\u00b0C. Supplied by Atlas Biochem from warehouse Osaka-1. Return rules are in [[POL-07]] and storage rules in [[SOP-07]]."
+  },
+  {
+   "id": "note:SKU-008",
+   "kind": "note",
+   "ref": "SKU-008",
+   "title": "SKU-008 Summit Liner",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Summit Liner (SKU-008) belongs to Cleaning Solvents. It costs $432.22 each, ordered in lots of at least 48. Its shelf life is 6 months, stored at -20\u00b0C--10\u00b0C. Our supplier is Atlas Biochem; the item ships from Austin-1. Refer to [[POL-08]] for returns and [[SOP-08]] for storage."
+  },
+  {
+   "id": "note:SKU-009",
+   "kind": "note",
+   "ref": "SKU-009",
+   "title": "SKU-009 Pinnacle Solvent",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 3,
+   "text": "SKU-009 is the Pinnacle Solvent, part of the Beverage Equipment category. List price is $284.10 per unit with a minimum order quantity of 6. Shelf life is 6 months when stored between -20\u00b0C and -14\u00b0C. Supplier: Northwind Labs. Stocked at Austin-1. Returns: [[POL-01]]. Storage: [[SOP-01]]."
+  },
+  {
+   "id": "note:SKU-010",
+   "kind": "note",
+   "ref": "SKU-010",
+   "title": "SKU-010 Meridian Solvent",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "Product SKU-010 - Meridian Solvent (Cold Chain Reagents). Unit price $136.56; MOQ 48 units. It keeps for 12 months at 15\u00b0C to 30\u00b0C. Supplied by Granite Packaging from warehouse Austin-1. Return rules are in [[POL-02]] and storage rules in [[SOP-02]]."
+  },
+  {
+   "id": "note:SKU-011",
+   "kind": "note",
+   "ref": "SKU-011",
+   "title": "SKU-011 Obsidian Gauze",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 4,
+   "text": "The Obsidian Gauze (SKU-011) belongs to Industrial Adhesives. It costs $94.64 each, ordered in lots of at least 6. Its shelf life is 48 months, stored at 10\u00b0C-25\u00b0C. Our supplier is Delta Meridian; the item ships from Singapore-3. Refer to [[POL-03]] for returns and [[SOP-03]] for storage."
+  },
+  {
+   "id": "note:SKU-012",
+   "kind": "note",
+   "ref": "SKU-012",
+   "title": "SKU-012 Cobalt Dressing",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "SKU-012 is the Cobalt Dressing, part of the Medical Consumables category. List price is $32.85 per unit with a minimum order quantity of 24. Shelf life is 6 months when stored between 2\u00b0C and 17\u00b0C. Supplier: Atlas Biochem. Stocked at Austin-1. Returns: [[POL-04]]. Storage: [[SOP-04]]."
+  },
+  {
+   "id": "note:SKU-013",
+   "kind": "note",
+   "ref": "SKU-013",
+   "title": "SKU-013 Nimbus Liner",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "Product SKU-013 - Nimbus Liner (Packaging Film). Unit price $122.91; MOQ 6 units. It keeps for 24 months at -20\u00b0C to -14\u00b0C. Supplied by Granite Packaging from warehouse Rotterdam-2. Return rules are in [[POL-05]] and storage rules in [[SOP-05]]."
+  },
+  {
+   "id": "note:SKU-014",
+   "kind": "note",
+   "ref": "SKU-014",
+   "title": "SKU-014 Quartz Beaker",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Quartz Beaker (SKU-014) belongs to Lab Glassware. It costs $197.45 each, ordered in lots of at least 48. Its shelf life is 12 months, stored at 2\u00b0C-17\u00b0C. Our supplier is Delta Meridian; the item ships from Rotterdam-2. Refer to [[POL-06]] for returns and [[SOP-06]] for storage."
+  },
+  {
+   "id": "note:SKU-015",
+   "kind": "note",
+   "ref": "SKU-015",
+   "title": "SKU-015 Ember Canister",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "SKU-015 is the Ember Canister, part of the Battery Modules category. List price is $445.02 per unit with a minimum order quantity of 48. Shelf life is 18 months when stored between 15\u00b0C and 30\u00b0C. Supplier: Delta Meridian. Stocked at Osaka-1. Returns: [[POL-07]]. Storage: [[SOP-07]]."
+  },
+  {
+   "id": "note:SKU-016",
+   "kind": "note",
+   "ref": "SKU-016",
+   "title": "SKU-016 Halcyon Wrap",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "Product SKU-016 - Halcyon Wrap (Cleaning Solvents). Unit price $107.63; MOQ 6 units. It keeps for 36 months at 5\u00b0C to 11\u00b0C. Supplied by Granite Packaging from warehouse Rotterdam-2. Return rules are in [[POL-08]] and storage rules in [[SOP-08]]."
+  },
+  {
+   "id": "note:SKU-017",
+   "kind": "note",
+   "ref": "SKU-017",
+   "title": "SKU-017 Pinnacle Cartridge",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Pinnacle Cartridge (SKU-017) belongs to Beverage Equipment. It costs $243.36 each, ordered in lots of at least 100. Its shelf life is 12 months, stored at -20\u00b0C--12\u00b0C. Our supplier is Northwind Labs; the item ships from Toronto-2. Refer to [[POL-01]] for returns and [[SOP-01]] for storage."
+  },
+  {
+   "id": "note:SKU-018",
+   "kind": "note",
+   "ref": "SKU-018",
+   "title": "SKU-018 Radiant Adhesive",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 5,
+   "text": "SKU-018 is the Radiant Adhesive, part of the Cold Chain Reagents category. List price is $325.40 per unit with a minimum order quantity of 12. Shelf life is 24 months when stored between 2\u00b0C and 8\u00b0C. Supplier: Kestrel Industrial. Stocked at Toronto-2. Returns: [[POL-02]]. Storage: [[SOP-02]]."
+  },
+  {
+   "id": "note:SKU-019",
+   "kind": "note",
+   "ref": "SKU-019",
+   "title": "SKU-019 Meridian Gauze",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "Product SKU-019 - Meridian Gauze (Industrial Adhesives). Unit price $316.91; MOQ 100 units. It keeps for 36 months at 2\u00b0C to 12\u00b0C. Supplied by Harbor & Finch from warehouse Singapore-3. Return rules are in [[POL-03]] and storage rules in [[SOP-03]]."
+  },
+  {
+   "id": "note:SKU-020",
+   "kind": "note",
+   "ref": "SKU-020",
+   "title": "SKU-020 Nimbus Sealant",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 5,
+   "text": "The Nimbus Sealant (SKU-020) belongs to Medical Consumables. It costs $66.30 each, ordered in lots of at least 24. Its shelf life is 24 months, stored at -20\u00b0C--5\u00b0C. Our supplier is Harbor & Finch; the item ships from Rotterdam-2. Refer to [[POL-04]] for returns and [[SOP-04]] for storage."
+  },
+  {
+   "id": "note:SKU-021",
+   "kind": "note",
+   "ref": "SKU-021",
+   "title": "SKU-021 Pinnacle Dressing",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "SKU-021 is the Pinnacle Dressing, part of the Packaging Film category. List price is $38.87 per unit with a minimum order quantity of 12. Shelf life is 36 months when stored between 5\u00b0C and 11\u00b0C. Supplier: Orion Polymers. Stocked at Austin-1. Returns: [[POL-05]]. Storage: [[SOP-05]]."
+  },
+  {
+   "id": "note:SKU-022",
+   "kind": "note",
+   "ref": "SKU-022",
+   "title": "SKU-022 Summit Wrap",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 6,
+   "text": "Product SKU-022 - Summit Wrap (Lab Glassware). Unit price $79.09; MOQ 100 units. It keeps for 48 months at 15\u00b0C to 21\u00b0C. Supplied by Orion Polymers from warehouse Toronto-2. Return rules are in [[POL-06]] and storage rules in [[SOP-06]]."
+  },
+  {
+   "id": "note:SKU-023",
+   "kind": "note",
+   "ref": "SKU-023",
+   "title": "SKU-023 Mosaic Wrap",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 3,
+   "text": "The Mosaic Wrap (SKU-023) belongs to Battery Modules. It costs $447.52 each, ordered in lots of at least 6. Its shelf life is 12 months, stored at -20\u00b0C--12\u00b0C. Our supplier is Orion Polymers; the item ships from Rotterdam-2. Refer to [[POL-07]] for returns and [[SOP-07]] for storage."
+  },
+  {
+   "id": "note:SKU-024",
+   "kind": "note",
+   "ref": "SKU-024",
+   "title": "SKU-024 Borealis Cell Pack",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "SKU-024 is the Borealis Cell Pack, part of the Cleaning Solvents category. List price is $345.58 per unit with a minimum order quantity of 12. Shelf life is 48 months when stored between 10\u00b0C and 20\u00b0C. Supplier: Orion Polymers. Stocked at Toronto-2. Returns: [[POL-08]]. Storage: [[SOP-08]]."
+  },
+  {
+   "id": "note:SKU-025",
+   "kind": "note",
+   "ref": "SKU-025",
+   "title": "SKU-025 Nimbus Reagent",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 5,
+   "text": "Product SKU-025 - Nimbus Reagent (Beverage Equipment). Unit price $5.69; MOQ 12 units. It keeps for 48 months at 10\u00b0C to 25\u00b0C. Supplied by Orion Polymers from warehouse Austin-1. Return rules are in [[POL-01]] and storage rules in [[SOP-01]]."
+  },
+  {
+   "id": "note:SKU-026",
+   "kind": "note",
+   "ref": "SKU-026",
+   "title": "SKU-026 Meridian Film",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Meridian Film (SKU-026) belongs to Cold Chain Reagents. It costs $263.70 each, ordered in lots of at least 24. Its shelf life is 36 months, stored at 10\u00b0C-18\u00b0C. Our supplier is Granite Packaging; the item ships from Austin-1. Refer to [[POL-02]] for returns and [[SOP-02]] for storage."
+  },
+  {
+   "id": "note:SKU-027",
+   "kind": "note",
+   "ref": "SKU-027",
+   "title": "SKU-027 Borealis Coolant",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 3,
+   "text": "SKU-027 is the Borealis Coolant, part of the Industrial Adhesives category. List price is $431.92 per unit with a minimum order quantity of 6. Shelf life is 18 months when stored between 2\u00b0C and 8\u00b0C. Supplier: Atlas Biochem. Stocked at Osaka-1. Returns: [[POL-03]]. Storage: [[SOP-03]]."
+  },
+  {
+   "id": "note:SKU-028",
+   "kind": "note",
+   "ref": "SKU-028",
+   "title": "SKU-028 Mosaic Gauze",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "Product SKU-028 - Mosaic Gauze (Medical Consumables). Unit price $467.55; MOQ 12 units. It keeps for 12 months at 10\u00b0C to 16\u00b0C. Supplied by BlueFern Supply from warehouse Austin-1. Return rules are in [[POL-04]] and storage rules in [[SOP-04]]."
+  },
+  {
+   "id": "note:SKU-029",
+   "kind": "note",
+   "ref": "SKU-029",
+   "title": "SKU-029 Cascade Gauze",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Cascade Gauze (SKU-029) belongs to Packaging Film. It costs $385.86 each, ordered in lots of at least 12. Its shelf life is 18 months, stored at -20\u00b0C--5\u00b0C. Our supplier is BlueFern Supply; the item ships from Osaka-1. Refer to [[POL-05]] for returns and [[SOP-05]] for storage."
+  },
+  {
+   "id": "note:SKU-030",
+   "kind": "note",
+   "ref": "SKU-030",
+   "title": "SKU-030 Obsidian Solvent",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 6,
+   "text": "SKU-030 is the Obsidian Solvent, part of the Lab Glassware category. List price is $99.00 per unit with a minimum order quantity of 48. Shelf life is 18 months when stored between 2\u00b0C and 8\u00b0C. Supplier: Orion Polymers. Stocked at Austin-1. Returns: [[POL-06]]. Storage: [[SOP-06]]."
+  },
+  {
+   "id": "note:SKU-031",
+   "kind": "note",
+   "ref": "SKU-031",
+   "title": "SKU-031 Halcyon Sealant",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 6,
+   "text": "Product SKU-031 - Halcyon Sealant (Battery Modules). Unit price $160.25; MOQ 6 units. It keeps for 18 months at 15\u00b0C to 30\u00b0C. Supplied by Harbor & Finch from warehouse Osaka-1. Return rules are in [[POL-07]] and storage rules in [[SOP-07]]."
+  },
+  {
+   "id": "note:SKU-032",
+   "kind": "note",
+   "ref": "SKU-032",
+   "title": "SKU-032 Mosaic Pipette Set",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Mosaic Pipette Set (SKU-032) belongs to Cleaning Solvents. It costs $451.08 each, ordered in lots of at least 6. Its shelf life is 18 months, stored at 5\u00b0C-11\u00b0C. Our supplier is BlueFern Supply; the item ships from Toronto-2. Refer to [[POL-08]] for returns and [[SOP-08]] for storage."
+  },
+  {
+   "id": "note:SKU-033",
+   "kind": "note",
+   "ref": "SKU-033",
+   "title": "SKU-033 Radiant Gauze",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 5,
+   "text": "SKU-033 is the Radiant Gauze, part of the Beverage Equipment category. List price is $168.55 per unit with a minimum order quantity of 24. Shelf life is 24 months when stored between -20\u00b0C and -5\u00b0C. Supplier: Vanta Energy. Stocked at Toronto-2. Returns: [[POL-01]]. Storage: [[SOP-01]]."
+  },
+  {
+   "id": "note:SKU-034",
+   "kind": "note",
+   "ref": "SKU-034",
+   "title": "SKU-034 Halcyon Canister",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 4,
+   "text": "Product SKU-034 - Halcyon Canister (Cold Chain Reagents). Unit price $25.13; MOQ 48 units. It keeps for 6 months at 2\u00b0C to 12\u00b0C. Supplied by Granite Packaging from warehouse Toronto-2. Return rules are in [[POL-02]] and storage rules in [[SOP-02]]."
+  },
+  {
+   "id": "note:SKU-035",
+   "kind": "note",
+   "ref": "SKU-035",
+   "title": "SKU-035 Meridian Pipette Set",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 3,
+   "text": "The Meridian Pipette Set (SKU-035) belongs to Industrial Adhesives. It costs $300.62 each, ordered in lots of at least 6. Its shelf life is 48 months, stored at 5\u00b0C-20\u00b0C. Our supplier is Orion Polymers; the item ships from Toronto-2. Refer to [[POL-03]] for returns and [[SOP-03]] for storage."
+  },
+  {
+   "id": "note:SKU-036",
+   "kind": "note",
+   "ref": "SKU-036",
+   "title": "SKU-036 Ember Wrap",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 4,
+   "text": "SKU-036 is the Ember Wrap, part of the Medical Consumables category. List price is $267.90 per unit with a minimum order quantity of 12. Shelf life is 24 months when stored between 2\u00b0C and 12\u00b0C. Supplier: Delta Meridian. Stocked at Osaka-1. Returns: [[POL-04]]. Storage: [[SOP-04]]."
+  },
+  {
+   "id": "note:SKU-037",
+   "kind": "note",
+   "ref": "SKU-037",
+   "title": "SKU-037 Mosaic Flask",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 4,
+   "text": "Product SKU-037 - Mosaic Flask (Packaging Film). Unit price $148.64; MOQ 12 units. It keeps for 24 months at 5\u00b0C to 20\u00b0C. Supplied by Vanta Energy from warehouse Toronto-2. Return rules are in [[POL-05]] and storage rules in [[SOP-05]]."
+  },
+  {
+   "id": "note:SKU-038",
+   "kind": "note",
+   "ref": "SKU-038",
+   "title": "SKU-038 Zephyr Cell Pack",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 1,
+   "text": "The Zephyr Cell Pack (SKU-038) belongs to Lab Glassware. It costs $247.32 each, ordered in lots of at least 12. Its shelf life is 48 months, stored at 15\u00b0C-25\u00b0C. Our supplier is Kestrel Industrial; the item ships from Singapore-3. Refer to [[POL-06]] for returns and [[SOP-06]] for storage."
+  },
+  {
+   "id": "note:SKU-039",
+   "kind": "note",
+   "ref": "SKU-039",
+   "title": "SKU-039 Quartz Wrap",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 5,
+   "text": "SKU-039 is the Quartz Wrap, part of the Battery Modules category. List price is $110.93 per unit with a minimum order quantity of 12. Shelf life is 12 months when stored between 2\u00b0C and 17\u00b0C. Supplier: Northwind Labs. Stocked at Rotterdam-2. Returns: [[POL-07]]. Storage: [[SOP-07]]."
+  },
+  {
+   "id": "note:SKU-040",
+   "kind": "note",
+   "ref": "SKU-040",
+   "title": "SKU-040 Meridian Liner",
+   "domain": "catalog",
+   "risk_tier": 1,
+   "version": 2,
+   "text": "Product SKU-040 - Meridian Liner (Cleaning Solvents). Unit price $201.27; MOQ 100 units. It keeps for 12 months at 10\u00b0C to 18\u00b0C. Supplied by Delta Meridian from warehouse Leipzig-1. Return rules are in [[POL-08]] and storage rules in [[SOP-08]]."
+  },
+  {
+   "id": "note:SOP-01",
+   "kind": "note",
+   "ref": "SOP-01",
+   "title": "SOP-01 Cold chain handling",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "SOP SOP-01: Cold chain handling. The procedure has 8 steps. Materials must be kept between 2\u00b0C and 8\u00b0C throughout. Deviations are escalated to the Safety Officer within 4 hours. Governing policy: [[POL-01]]."
+  },
+  {
+   "id": "note:SOP-02",
+   "kind": "note",
+   "ref": "SOP-02",
+   "title": "SOP-02 Hazardous material storage",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "SOP SOP-02: Hazardous material storage. The procedure has 9 steps. Materials must be kept between -5\u00b0C and 3\u00b0C throughout. Deviations are escalated to the Compliance Officer within 2 hours. Governing policy: [[POL-02]]."
+  },
+  {
+   "id": "note:SOP-03",
+   "kind": "note",
+   "ref": "SOP-03",
+   "title": "SOP-03 Receiving inspection",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "SOP SOP-03: Receiving inspection. The procedure has 7 steps. Materials must be kept between 2\u00b0C and 10\u00b0C throughout. Deviations are escalated to the Finance Controller within 8 hours. Governing policy: [[POL-03]]."
+  },
+  {
+   "id": "note:SOP-04",
+   "kind": "note",
+   "ref": "SOP-04",
+   "title": "SOP-04 Quarantine and release",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 5,
+   "text": "SOP SOP-04: Quarantine and release. The procedure has 6 steps. Materials must be kept between -5\u00b0C and 1\u00b0C throughout. Deviations are escalated to the Operations Director within 8 hours. Governing policy: [[POL-04]]."
+  },
+  {
+   "id": "note:SOP-05",
+   "kind": "note",
+   "ref": "SOP-05",
+   "title": "SOP-05 Recall procedure",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "SOP SOP-05: Recall procedure. The procedure has 9 steps. Materials must be kept between -5\u00b0C and 3\u00b0C throughout. Deviations are escalated to the Safety Officer within 4 hours. Governing policy: [[POL-05]]."
+  },
+  {
+   "id": "note:SOP-06",
+   "kind": "note",
+   "ref": "SOP-06",
+   "title": "SOP-06 Cleanroom entry",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 6,
+   "text": "SOP SOP-06: Cleanroom entry. The procedure has 7 steps. Materials must be kept between 2\u00b0C and 10\u00b0C throughout. Deviations are escalated to the Operations Director within 24 hours. Governing policy: [[POL-06]]."
+  },
+  {
+   "id": "note:SOP-07",
+   "kind": "note",
+   "ref": "SOP-07",
+   "title": "SOP-07 Battery storage",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 4,
+   "text": "SOP SOP-07: Battery storage. The procedure has 6 steps. Materials must be kept between -20\u00b0C and -10\u00b0C throughout. Deviations are escalated to the Quality Director within 2 hours. Governing policy: [[POL-07]]."
+  },
+  {
+   "id": "note:SOP-08",
+   "kind": "note",
+   "ref": "SOP-08",
+   "title": "SOP-08 Solvent handling",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 2,
+   "text": "SOP SOP-08: Solvent handling. The procedure has 6 steps. Materials must be kept between -20\u00b0C and -10\u00b0C throughout. Deviations are escalated to the Quality Director within 24 hours. Governing policy: [[POL-08]]."
+  },
+  {
+   "id": "note:SOP-09",
+   "kind": "note",
+   "ref": "SOP-09",
+   "title": "SOP-09 Data deletion",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 3,
+   "text": "SOP SOP-09: Data deletion. The procedure has 9 steps. Materials must be kept between 5\u00b0C and 13\u00b0C throughout. Deviations are escalated to the Finance Controller within 12 hours. Governing policy: [[POL-09]]."
+  },
+  {
+   "id": "note:SOP-10",
+   "kind": "note",
+   "ref": "SOP-10",
+   "title": "SOP-10 Supplier audit",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 6,
+   "text": "SOP SOP-10: Supplier audit. The procedure has 5 steps. Materials must be kept between -5\u00b0C and 5\u00b0C throughout. Deviations are escalated to the Operations Director within 24 hours. Governing policy: [[POL-10]]."
+  },
+  {
+   "id": "note:SOP-11",
+   "kind": "note",
+   "ref": "SOP-11",
+   "title": "SOP-11 Cycle counting",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 2,
+   "text": "SOP SOP-11: Cycle counting. The procedure has 8 steps. Materials must be kept between 5\u00b0C and 15\u00b0C throughout. Deviations are escalated to the Safety Officer within 12 hours. Governing policy: [[POL-11]]."
+  },
+  {
+   "id": "note:SOP-12",
+   "kind": "note",
+   "ref": "SOP-12",
+   "title": "SOP-12 Damaged goods",
+   "domain": "sop",
+   "risk_tier": 2,
+   "version": 1,
+   "text": "SOP SOP-12: Damaged goods. The procedure has 5 steps. Materials must be kept between 10\u00b0C and 16\u00b0C throughout. Deviations are escalated to the Finance Controller within 2 hours. Governing policy: [[POL-12]]."
+  },
+  {
+   "id": "py:ua.__init__",
+   "kind": "module",
+   "ref": "ua.__init__",
+   "title": "ua.__init__",
+   "text": "The Unreliable Assistant -> Enterprise Grade."
+  },
+  {
+   "id": "py:ua.agents",
+   "kind": "module",
+   "ref": "ua.agents",
+   "title": "ua.agents",
+   "text": "Deterministic reasoning components that sit behind swappable interfaces."
+  },
+  {
+   "id": "py:ua.agents.Evidence",
+   "kind": "class",
+   "ref": "Evidence",
+   "title": "Evidence",
+   "text": ""
+  },
+  {
+   "id": "py:ua.agents.ExtractiveLLM",
+   "kind": "class",
+   "ref": "ExtractiveLLM",
+   "title": "ExtractiveLLM",
+   "text": ""
+  },
+  {
+   "id": "py:ua.agents.ToolSpec",
+   "kind": "class",
+   "ref": "ToolSpec",
+   "title": "ToolSpec",
+   "text": ""
+  },
+  {
+   "id": "py:ua.agents.Plan",
+   "kind": "class",
+   "ref": "Plan",
+   "title": "Plan",
+   "text": ""
+  },
+  {
+   "id": "py:ua.agents.RuleBrain",
+   "kind": "class",
+   "ref": "RuleBrain",
+   "title": "RuleBrain",
+   "text": "Deterministic planner. Replace with an LLM-backed Brain exposing the same `plan`."
+  },
+  {
+   "id": "py:ua.agents.ChaosBrain",
+   "kind": "class",
+   "ref": "ChaosBrain",
+   "title": "ChaosBrain",
+   "text": "Adversarial brains for KPI-16 / Streamlit Tab 5: try to loop forever."
+  },
+  {
+   "id": "py:ua.api",
+   "kind": "module",
+   "ref": "ua.api",
+   "title": "ua.api",
+   "text": "FastAPI service: POST /api/v1/agent/query (+ HITL + admin/dev endpoints). Stateless workers; all state in Redis/DB."
+  },
+  {
+   "id": "py:ua.api.QueryBody",
+   "kind": "schema",
+   "ref": "QueryBody",
+   "title": "QueryBody",
+   "text": ""
+  },
+  {
+   "id": "py:ua.api.DecideBody",
+   "kind": "schema",
+   "ref": "DecideBody",
+   "title": "DecideBody",
+   "text": ""
+  },
+  {
+   "id": "py:ua.cache",
+   "kind": "module",
+   "ref": "ua.cache",
+   "title": "ua.cache",
+   "text": "Tenant-isolated semantic cache (ADR-003)."
+  },
+  {
+   "id": "py:ua.cache.MemoryBackend",
+   "kind": "class",
+   "ref": "MemoryBackend",
+   "title": "MemoryBackend",
+   "text": "Thread-safe in-process backend with the same semantics as Redis (TTL, namespaces)."
+  },
+  {
+   "id": "py:ua.cache.RedisBackend",
+   "kind": "class",
+   "ref": "RedisBackend",
+   "title": "RedisBackend",
+   "text": "Redis (Cluster-safe: every op touches keys sharing one `{tenant}` hash tag)."
+  },
+  {
+   "id": "py:ua.cache.SemanticCache",
+   "kind": "class",
+   "ref": "SemanticCache",
+   "title": "SemanticCache",
+   "text": ""
+  },
+  {
+   "id": "py:ua.config",
+   "kind": "module",
+   "ref": "ua.config",
+   "title": "ua.config",
+   "text": "Central configuration. Values mirror design.md; runbook knobs are mutable at runtime."
+  },
+  {
+   "id": "py:ua.config.RagParams",
+   "kind": "class",
+   "ref": "RagParams",
+   "title": "RagParams",
+   "text": ""
+  },
+  {
+   "id": "py:ua.config.LoopParams",
+   "kind": "class",
+   "ref": "LoopParams",
+   "title": "LoopParams",
+   "text": ""
+  },
+  {
+   "id": "py:ua.config.CacheParams",
+   "kind": "class",
+   "ref": "CacheParams",
+   "title": "CacheParams",
+   "text": ""
+  },
+  {
+   "id": "py:ua.config.Settings",
+   "kind": "class",
+   "ref": "Settings",
+   "title": "Settings",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts",
+   "kind": "module",
+   "ref": "ua.contracts",
+   "title": "ua.contracts",
+   "text": "Pydantic v2 MCP tool & data contracts (design.md 1.2). All models are strict + extra=forbid."
+  },
+  {
+   "id": "py:ua.contracts.Tier",
+   "kind": "class",
+   "ref": "Tier",
+   "title": "Tier",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.Route",
+   "kind": "class",
+   "ref": "Route",
+   "title": "Route",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.Meta",
+   "kind": "schema",
+   "ref": "Meta",
+   "title": "Meta",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.HybridRetrieveIn",
+   "kind": "schema",
+   "ref": "HybridRetrieveIn",
+   "title": "HybridRetrieveIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.Chunk",
+   "kind": "schema",
+   "ref": "Chunk",
+   "title": "Chunk",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.HybridRetrieveOut",
+   "kind": "schema",
+   "ref": "HybridRetrieveOut",
+   "title": "HybridRetrieveOut",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.LookupItemIn",
+   "kind": "schema",
+   "ref": "LookupItemIn",
+   "title": "LookupItemIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.SubmitFormIn",
+   "kind": "schema",
+   "ref": "SubmitFormIn",
+   "title": "SubmitFormIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.TransitionIn",
+   "kind": "schema",
+   "ref": "TransitionIn",
+   "title": "TransitionIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.SessionFactIn",
+   "kind": "schema",
+   "ref": "SessionFactIn",
+   "title": "SessionFactIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.GetFactsIn",
+   "kind": "schema",
+   "ref": "GetFactsIn",
+   "title": "GetFactsIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.GraphSubgraphIn",
+   "kind": "schema",
+   "ref": "GraphSubgraphIn",
+   "title": "GraphSubgraphIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.AuditAppendIn",
+   "kind": "schema",
+   "ref": "AuditAppendIn",
+   "title": "AuditAppendIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.HitlDecideIn",
+   "kind": "schema",
+   "ref": "HitlDecideIn",
+   "title": "HitlDecideIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.HitlListIn",
+   "kind": "schema",
+   "ref": "HitlListIn",
+   "title": "HitlListIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.AuditVerifyIn",
+   "kind": "schema",
+   "ref": "AuditVerifyIn",
+   "title": "AuditVerifyIn",
+   "text": ""
+  },
+  {
+   "id": "py:ua.contracts.ToolResult",
+   "kind": "schema",
+   "ref": "ToolResult",
+   "title": "ToolResult",
+   "text": ""
+  },
+  {
+   "id": "py:ua.embedder",
+   "kind": "module",
+   "ref": "ua.embedder",
+   "title": "ua.embedder",
+   "text": "Shared embedder: one query embedding per request (cache + triage + clause scoring + drift), memoised clause vectors."
+  },
+  {
+   "id": "py:ua.embedder.Embedder",
+   "kind": "class",
+   "ref": "Embedder",
+   "title": "Embedder",
+   "text": ""
+  },
+  {
+   "id": "py:ua.errors",
+   "kind": "module",
+   "ref": "ua.errors",
+   "title": "ua.errors",
+   "text": "JSON-RPC / MCP error codes (design.md 1.2)."
+  },
+  {
+   "id": "py:ua.errors.ErrorObj",
+   "kind": "schema",
+   "ref": "ErrorObj",
+   "title": "ErrorObj",
+   "text": ""
+  },
+  {
+   "id": "py:ua.errors.UAError",
+   "kind": "class",
+   "ref": "UAError",
+   "title": "UAError",
+   "text": ""
+  },
+  {
+   "id": "py:ua.errors.Block",
+   "kind": "class",
+   "ref": "Block",
+   "title": "Block",
+   "text": "Raised by a plugin to block the request (fail-closed)."
+  },
+  {
+   "id": "py:ua.graphify",
+   "kind": "module",
+   "ref": "ua.graphify",
+   "title": "ua.graphify",
+   "text": "Graphify: unified structural graph of Python modules/Pydantic schemas + Obsidian policy notes (Gate 17)."
+  },
+  {
+   "id": "py:ua.graphify.Graph",
+   "kind": "class",
+   "ref": "Graph",
+   "title": "Graph",
+   "text": ""
+  },
+  {
+   "id": "py:ua.harness",
+   "kind": "module",
+   "ref": "ua.harness",
+   "title": "ua.harness",
+   "text": "ToolExecutionHarness: every MCP tool call passes through"
+  },
+  {
+   "id": "py:ua.harness.ToolCall",
+   "kind": "class",
+   "ref": "ToolCall",
+   "title": "ToolCall",
+   "text": ""
+  },
+  {
+   "id": "py:ua.harness.ToolExecutionHarness",
+   "kind": "class",
+   "ref": "ToolExecutionHarness",
+   "title": "ToolExecutionHarness",
+   "text": ""
+  },
+  {
+   "id": "py:ua.loop",
+   "kind": "module",
+   "ref": "ua.loop",
+   "title": "ua.loop",
+   "text": "Bounded ReAct loop: deterministic state machine + goal anchoring + observation compression + dual memory."
+  },
+  {
+   "id": "py:ua.loop.S",
+   "kind": "class",
+   "ref": "S",
+   "title": "S",
+   "text": ""
+  },
+  {
+   "id": "py:ua.loop.GoalAnchorBlock",
+   "kind": "class",
+   "ref": "GoalAnchorBlock",
+   "title": "GoalAnchorBlock",
+   "text": "Immutable: original intent, normalised entity ids, active policy constraints. ALWAYS prompt index 0."
+  },
+  {
+   "id": "py:ua.loop.HotMemory",
+   "kind": "class",
+   "ref": "HotMemory",
+   "title": "HotMemory",
+   "text": "Sliding window of the last N ReAct turns per (tenant, session). In-process LRU: survives a Redis outage (FMEA #1)."
+  },
+  {
+   "id": "py:ua.loop.LoopResult",
+   "kind": "class",
+   "ref": "LoopResult",
+   "title": "LoopResult",
+   "text": ""
+  },
+  {
+   "id": "py:ua.loop.ReActLoop",
+   "kind": "class",
+   "ref": "ReActLoop",
+   "title": "ReActLoop",
+   "text": ""
+  },
+  {
+   "id": "py:ua.mcp_host",
+   "kind": "module",
+   "ref": "ua.mcp_host",
+   "title": "ua.mcp_host",
+   "text": "MCP host: JSON-RPC 2.0 client for the three MCP servers."
+  },
+  {
+   "id": "py:ua.mcp_host.ServerStatus",
+   "kind": "class",
+   "ref": "ServerStatus",
+   "title": "ServerStatus",
+   "text": ""
+  },
+  {
+   "id": "py:ua.mcp_host.McpHost",
+   "kind": "class",
+   "ref": "McpHost",
+   "title": "McpHost",
+   "text": ""
+  },
+  {
+   "id": "py:ua.orchestrator",
+   "kind": "module",
+   "ref": "ua.orchestrator",
+   "title": "ua.orchestrator",
+   "text": "Request orchestration: pre-hooks -> cache -> triage -> subagent ReAct loop -> verification -> audit -> egress."
+  },
+  {
+   "id": "py:ua.orchestrator.Draft",
+   "kind": "class",
+   "ref": "Draft",
+   "title": "Draft",
+   "text": ""
+  },
+  {
+   "id": "py:ua.orchestrator.QueryRequest",
+   "kind": "class",
+   "ref": "QueryRequest",
+   "title": "QueryRequest",
+   "text": ""
+  },
+  {
+   "id": "py:ua.orchestrator.Orchestrator",
+   "kind": "class",
+   "ref": "Orchestrator",
+   "title": "Orchestrator",
+   "text": ""
+  },
+  {
+   "id": "py:ua.plugins.__init__",
+   "kind": "module",
+   "ref": "ua.plugins.__init__",
+   "title": "ua.plugins.__init__",
+   "text": ""
+  },
+  {
+   "id": "py:ua.plugins.builtin",
+   "kind": "module",
+   "ref": "ua.plugins.builtin",
+   "title": "ua.plugins.builtin",
+   "text": "Built-in lifecycle plugins: pii_redactor, injection_shield, circuit_breaker, ragas_auditor, otel_exporter."
+  },
+  {
+   "id": "py:ua.plugins.builtin.PiiRedactor",
+   "kind": "class",
+   "ref": "PiiRedactor",
+   "title": "PiiRedactor",
+   "text": "Regex + normalisation redactor. Replaces PII with typed tokens; never stores originals."
+  },
+  {
+   "id": "py:ua.plugins.builtin.InjectionShield",
+   "kind": "class",
+   "ref": "InjectionShield",
+   "title": "InjectionShield",
+   "text": "Weighted rule classifier over normalised text + per-session crescendo accumulation."
+  },
+  {
+   "id": "py:ua.plugins.builtin.CircuitBreakerPlugin",
+   "kind": "class",
+   "ref": "CircuitBreakerPlugin",
+   "title": "CircuitBreakerPlugin",
+   "text": "Trips on (tool_name, canonical_args_hash) failing >= max_identical_calls times."
+  },
+  {
+   "id": "py:ua.plugins.builtin.RagasAuditor",
+   "kind": "class",
+   "ref": "RagasAuditor",
+   "title": "RagasAuditor",
+   "text": "Online gate = lexical claim-support (NLI proxy). Full RAGAS runs async/offline (ADR-006)."
+  },
+  {
+   "id": "py:ua.plugins.builtin.OtelExporter",
+   "kind": "class",
+   "ref": "OtelExporter",
+   "title": "OtelExporter",
+   "text": "Bridges recorded spans to the OTLP collector with a non-blocking batch processor."
+  },
+  {
+   "id": "py:ua.plugins.registry",
+   "kind": "module",
+   "ref": "ua.plugins.registry",
+   "title": "ua.plugins.registry",
+   "text": "Priority-ordered, hot-toggleable lifecycle plugin registry on top of pluggy."
+  },
+  {
+   "id": "py:ua.plugins.registry.RequestContext",
+   "kind": "class",
+   "ref": "RequestContext",
+   "title": "RequestContext",
+   "text": ""
+  },
+  {
+   "id": "py:ua.plugins.registry.PluginEntry",
+   "kind": "class",
+   "ref": "PluginEntry",
+   "title": "PluginEntry",
+   "text": ""
+  },
+  {
+   "id": "py:ua.plugins.registry.LifecycleRegistry",
+   "kind": "class",
+   "ref": "LifecycleRegistry",
+   "title": "LifecycleRegistry",
+   "text": ""
+  },
+  {
+   "id": "py:ua.plugins.spec",
+   "kind": "module",
+   "ref": "ua.plugins.spec",
+   "title": "ua.plugins.spec",
+   "text": "Pluggy hook specifications for lifecycle plugins (design.md 1.2 'Plugin contract')."
+  },
+  {
+   "id": "py:ua.plugins.spec.LifecycleSpec",
+   "kind": "class",
+   "ref": "LifecycleSpec",
+   "title": "LifecycleSpec",
+   "text": ""
+  },
+  {
+   "id": "py:ua.rag.__init__",
+   "kind": "module",
+   "ref": "ua.rag.__init__",
+   "title": "ua.rag.__init__",
+   "text": ""
+  },
+  {
+   "id": "py:ua.rag.bm25",
+   "kind": "module",
+   "ref": "ua.rag.bm25",
+   "title": "ua.rag.bm25",
+   "text": "BM25Okapi with Porter stemming and an inverted index (pre-tokenised). k1/b adjustable at query time."
+  },
+  {
+   "id": "py:ua.rag.bm25.BM25Index",
+   "kind": "class",
+   "ref": "BM25Index",
+   "title": "BM25Index",
+   "text": ""
+  },
+  {
+   "id": "py:ua.rag.encoders",
+   "kind": "module",
+   "ref": "ua.rag.encoders",
+   "title": "ua.rag.encoders",
+   "text": "ONNX bi-encoder / cross-encoder wrappers + dependency-free fallbacks."
+  },
+  {
+   "id": "py:ua.rag.encoders.OnnxEncoder",
+   "kind": "class",
+   "ref": "OnnxEncoder",
+   "title": "OnnxEncoder",
+   "text": ""
+  },
+  {
+   "id": "py:ua.rag.encoders.HashEncoder",
+   "kind": "class",
+   "ref": "HashEncoder",
+   "title": "HashEncoder",
+   "text": "Fallback: hashed word + char-trigram embedding. Lexical-ish, NOT semantic. Used only if no model files."
+  },
+  {
+   "id": "py:ua.rag.encoders.OnnxReranker",
+   "kind": "class",
+   "ref": "OnnxReranker",
+   "title": "OnnxReranker",
+   "text": ""
+  },
+  {
+   "id": "py:ua.rag.encoders.LexicalReranker",
+   "kind": "class",
+   "ref": "LexicalReranker",
+   "title": "LexicalReranker",
+   "text": "Fallback reranker: query-term coverage. NOT a neural cross-encoder."
+  },
+  {
+   "id": "py:ua.rag.encoders.MicroBatcher",
+   "kind": "class",
+   "ref": "MicroBatcher",
+   "title": "MicroBatcher",
+   "text": "Dynamic micro-batching across concurrent requests: batch <= 32, max_wait = 8 ms (design Gate 15)."
+  },
+  {
+   "id": "py:ua.rag.engine",
+   "kind": "module",
+   "ref": "ua.rag.engine",
+   "title": "ua.rag.engine",
+   "text": "3-stage hybrid retrieval engine (BM25 || dense -> RRF -> cross-encoder) with deterministic abstention."
+  },
+  {
+   "id": "py:ua.rag.engine.RagEngine",
+   "kind": "class",
+   "ref": "RagEngine",
+   "title": "RagEngine",
+   "text": ""
+  },
+  {
+   "id": "py:ua.rag.guards",
+   "kind": "module",
+   "ref": "ua.rag.guards",
+   "title": "ua.rag.guards",
+   "text": "Deterministic grounding guards used by the retrieval engine."
+  },
+  {
+   "id": "py:ua.rag.index",
+   "kind": "module",
+   "ref": "ua.rag.index",
+   "title": "ua.rag.index",
+   "text": "Vault -> chunks -> BM25 + FAISS-HNSW index, with sha256 manifest (FMEA #11: refuse corrupt index)."
+  },
+  {
+   "id": "py:ua.runbooks",
+   "kind": "module",
+   "ref": "ua.runbooks",
+   "title": "ua.runbooks",
+   "text": "Incident runbooks (Gate 10/11): alert rule -> automated mitigation. Every mitigation is reversible and recorded."
+  },
+  {
+   "id": "py:ua.runbooks.Runbooks",
+   "kind": "class",
+   "ref": "Runbooks",
+   "title": "Runbooks",
+   "text": ""
+  },
+  {
+   "id": "py:ua.runtime",
+   "kind": "module",
+   "ref": "ua.runtime",
+   "title": "ua.runtime",
+   "text": "Runtime assembly shared by the FastAPI service and the Streamlit workbench."
+  },
+  {
+   "id": "py:ua.runtime.Runtime",
+   "kind": "class",
+   "ref": "Runtime",
+   "title": "Runtime",
+   "text": ""
+  },
+  {
+   "id": "py:ua.security",
+   "kind": "module",
+   "ref": "ua.security",
+   "title": "ua.security",
+   "text": "HMAC-signed request metadata (tenant integrity across the MCP boundary) + signed server manifests (Gate 13)."
+  },
+  {
+   "id": "py:ua.services",
+   "kind": "module",
+   "ref": "ua.services",
+   "title": "ua.services",
+   "text": "MCP server business logic. Shared by mcp_servers/*.py (real MCP transports) and the in-process transport."
+  },
+  {
+   "id": "py:ua.services.BaseService",
+   "kind": "class",
+   "ref": "BaseService",
+   "title": "BaseService",
+   "text": ""
+  },
+  {
+   "id": "py:ua.services.RagService",
+   "kind": "class",
+   "ref": "RagService",
+   "title": "RagService",
+   "text": ""
+  },
+  {
+   "id": "py:ua.services.GraphService",
+   "kind": "class",
+   "ref": "GraphService",
+   "title": "GraphService",
+   "text": ""
+  },
+  {
+   "id": "py:ua.services.StateService",
+   "kind": "class",
+   "ref": "StateService",
+   "title": "StateService",
+   "text": ""
+  },
+  {
+   "id": "py:ua.store",
+   "kind": "module",
+   "ref": "ua.store",
+   "title": "ua.store",
+   "text": "State store: session_facts, hash-chained audit log, HITL approvals, items."
+  },
+  {
+   "id": "py:ua.store.StateStore",
+   "kind": "class",
+   "ref": "StateStore",
+   "title": "StateStore",
+   "text": ""
+  },
+  {
+   "id": "py:ua.telemetry",
+   "kind": "module",
+   "ref": "ua.telemetry",
+   "title": "ua.telemetry",
+   "text": "W3C TraceContext, in-process span recorder, percentile tracking, optional OTLP export."
+  },
+  {
+   "id": "py:ua.telemetry.Span",
+   "kind": "class",
+   "ref": "Span",
+   "title": "Span",
+   "text": ""
+  },
+  {
+   "id": "py:ua.telemetry.TraceCtx",
+   "kind": "class",
+   "ref": "TraceCtx",
+   "title": "TraceCtx",
+   "text": ""
+  },
+  {
+   "id": "py:ua.telemetry.Recorder",
+   "kind": "class",
+   "ref": "Recorder",
+   "title": "Recorder",
+   "text": "Thread-safe rolling latency histograms + recent traces (bounded, drop-oldest)."
+  },
+  {
+   "id": "py:ua.textnorm",
+   "kind": "module",
+   "ref": "ua.textnorm",
+   "title": "ua.textnorm",
+   "text": "Adversarial-text normalisation shared by PII redactor and injection shield."
+  },
+  {
+   "id": "py:ua.triage",
+   "kind": "module",
+   "ref": "ua.triage",
+   "title": "ua.triage",
+   "text": "Triage agent: distilled linear classifier over the (shared) bge bi-encoder query embedding, temperature 0 (argmax)."
+  },
+  {
+   "id": "py:ua.triage.TriageResult",
+   "kind": "class",
+   "ref": "TriageResult",
+   "title": "TriageResult",
+   "text": ""
+  },
+  {
+   "id": "py:ua.triage.Triage",
+   "kind": "class",
+   "ref": "Triage",
+   "title": "Triage",
+   "text": ""
+  },
+  {
+   "id": "py:ua.verify",
+   "kind": "module",
+   "ref": "ua.verify",
+   "title": "ua.verify",
+   "text": "Lexical claim-to-evidence verification (NLI proxy, ADR-006)."
+  }
+ ],
+ "edges": [
+  {
+   "src": "note:LOT-88001",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88001",
+   "dst": "note:SKU-001",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88008",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88008",
+   "dst": "note:SKU-036",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88015",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88015",
+   "dst": "note:SKU-040",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88022",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88022",
+   "dst": "note:SKU-017",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88029",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88029",
+   "dst": "note:SKU-029",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88036",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88036",
+   "dst": "note:SKU-006",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88043",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88043",
+   "dst": "note:SKU-027",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88050",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88050",
+   "dst": "note:SKU-038",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88057",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88057",
+   "dst": "note:SKU-020",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88064",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88064",
+   "dst": "note:SKU-015",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88071",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88071",
+   "dst": "note:SKU-011",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88078",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88078",
+   "dst": "note:SKU-037",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88085",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88085",
+   "dst": "note:SKU-004",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88092",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88092",
+   "dst": "note:SKU-018",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88099",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88099",
+   "dst": "note:SKU-035",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88106",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88106",
+   "dst": "note:SKU-016",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88113",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88113",
+   "dst": "note:SKU-008",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88120",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88120",
+   "dst": "note:SKU-039",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88127",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88127",
+   "dst": "note:SKU-037",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88134",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88134",
+   "dst": "note:SKU-016",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88141",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88141",
+   "dst": "note:SKU-035",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88148",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88148",
+   "dst": "note:SKU-027",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88155",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88155",
+   "dst": "note:SKU-010",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88162",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88162",
+   "dst": "note:SKU-028",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88169",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88169",
+   "dst": "note:SKU-029",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88176",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88176",
+   "dst": "note:SKU-002",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88183",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88183",
+   "dst": "note:SKU-022",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88190",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88190",
+   "dst": "note:SKU-016",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88197",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88197",
+   "dst": "note:SKU-032",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88204",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:LOT-88204",
+   "dst": "note:SKU-016",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-01",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-02",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-03",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-04",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-05",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-06",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-07",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-08",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-11",
+   "dst": "note:SOP-10",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:POL-12",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-001",
+   "dst": "note:POL-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-001",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-002",
+   "dst": "note:POL-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-002",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-003",
+   "dst": "note:POL-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-003",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-004",
+   "dst": "note:POL-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-004",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-005",
+   "dst": "note:POL-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-005",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-006",
+   "dst": "note:POL-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-006",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-007",
+   "dst": "note:POL-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-007",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-008",
+   "dst": "note:POL-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-008",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-009",
+   "dst": "note:POL-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-009",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-010",
+   "dst": "note:POL-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-010",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-011",
+   "dst": "note:POL-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-011",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-012",
+   "dst": "note:POL-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-012",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-013",
+   "dst": "note:POL-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-013",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-014",
+   "dst": "note:POL-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-014",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-015",
+   "dst": "note:POL-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-015",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-016",
+   "dst": "note:POL-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-016",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-017",
+   "dst": "note:POL-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-017",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-018",
+   "dst": "note:POL-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-018",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-019",
+   "dst": "note:POL-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-019",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-020",
+   "dst": "note:POL-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-020",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-021",
+   "dst": "note:POL-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-021",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-022",
+   "dst": "note:POL-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-022",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-023",
+   "dst": "note:POL-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-023",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-024",
+   "dst": "note:POL-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-024",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-025",
+   "dst": "note:POL-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-025",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-026",
+   "dst": "note:POL-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-026",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-027",
+   "dst": "note:POL-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-027",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-028",
+   "dst": "note:POL-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-028",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-029",
+   "dst": "note:POL-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-029",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-030",
+   "dst": "note:POL-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-030",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-031",
+   "dst": "note:POL-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-031",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-032",
+   "dst": "note:POL-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-032",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-033",
+   "dst": "note:POL-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-033",
+   "dst": "note:SOP-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-034",
+   "dst": "note:POL-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-034",
+   "dst": "note:SOP-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-035",
+   "dst": "note:POL-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-035",
+   "dst": "note:SOP-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-036",
+   "dst": "note:POL-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-036",
+   "dst": "note:SOP-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-037",
+   "dst": "note:POL-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-037",
+   "dst": "note:SOP-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-038",
+   "dst": "note:POL-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-038",
+   "dst": "note:SOP-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-039",
+   "dst": "note:POL-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-039",
+   "dst": "note:SOP-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-040",
+   "dst": "note:POL-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SKU-040",
+   "dst": "note:SOP-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-01",
+   "dst": "note:POL-01",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-02",
+   "dst": "note:POL-02",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-03",
+   "dst": "note:POL-03",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-04",
+   "dst": "note:POL-04",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-05",
+   "dst": "note:POL-05",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-06",
+   "dst": "note:POL-06",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-07",
+   "dst": "note:POL-07",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-08",
+   "dst": "note:POL-08",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-09",
+   "dst": "note:POL-09",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-10",
+   "dst": "note:POL-10",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-11",
+   "dst": "note:POL-11",
+   "rel": "wikilink"
+  },
+  {
+   "src": "note:SOP-12",
+   "dst": "note:POL-12",
+   "rel": "wikilink"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.verify",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.agents.Evidence",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.agents.ExtractiveLLM",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.agents.ToolSpec",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.agents.Plan",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.agents.RuleBrain",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.agents",
+   "dst": "py:ua.agents.ChaosBrain",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.orchestrator",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.runtime",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.api.QueryBody",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.api",
+   "dst": "py:ua.api.DecideBody",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.cache",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.cache",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.cache",
+   "dst": "py:ua.cache.MemoryBackend",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.cache",
+   "dst": "py:ua.cache.RedisBackend",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.cache",
+   "dst": "py:ua.cache.SemanticCache",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.config",
+   "dst": "py:ua.config.RagParams",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.config",
+   "dst": "py:ua.config.LoopParams",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.config",
+   "dst": "py:ua.config.CacheParams",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.config",
+   "dst": "py:ua.config.Settings",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.Tier",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.Route",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.Meta",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.HybridRetrieveIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.Chunk",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.HybridRetrieveOut",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.LookupItemIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.SubmitFormIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.TransitionIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.SessionFactIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.GetFactsIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.GraphSubgraphIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.AuditAppendIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.HitlDecideIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.HitlListIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.AuditVerifyIn",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.contracts",
+   "dst": "py:ua.contracts.ToolResult",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.embedder",
+   "dst": "py:ua.embedder.Embedder",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.embedder",
+   "dst": "py:ua.agents",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.embedder",
+   "dst": "py:ua.rag.index",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.errors",
+   "dst": "py:ua.errors.ErrorObj",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.errors",
+   "dst": "py:ua.errors.UAError",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.errors",
+   "dst": "py:ua.errors.Block",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.graphify",
+   "dst": "py:ua.rag.index",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.graphify",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.graphify",
+   "dst": "py:ua.graphify.Graph",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.mcp_host",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.plugins.registry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.harness.ToolCall",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.harness",
+   "dst": "py:ua.harness.ToolExecutionHarness",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.agents",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.harness",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.loop.S",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.loop.GoalAnchorBlock",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.loop.HotMemory",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.loop.LoopResult",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.loop",
+   "dst": "py:ua.loop.ReActLoop",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.security",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.mcp_host.ServerStatus",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.mcp_host",
+   "dst": "py:ua.mcp_host.McpHost",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.agents",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.cache",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.harness",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.loop",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.plugins.registry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.orchestrator.Draft",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.orchestrator.QueryRequest",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.orchestrator.Orchestrator",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.orchestrator",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.__init__",
+   "dst": "py:ua.plugins.registry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.plugins.spec",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.plugins.builtin.PiiRedactor",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.plugins.builtin.InjectionShield",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.plugins.builtin.CircuitBreakerPlugin",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.plugins.builtin.RagasAuditor",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.plugins.builtin.OtelExporter",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.builtin",
+   "dst": "py:ua.verify",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.plugins.spec",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.plugins.registry.RequestContext",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.plugins.registry.PluginEntry",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.registry",
+   "dst": "py:ua.plugins.registry.LifecycleRegistry",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.plugins.spec",
+   "dst": "py:ua.plugins.spec.LifecycleSpec",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.bm25",
+   "dst": "py:ua.rag.bm25.BM25Index",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.rag.encoders.OnnxEncoder",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.rag.encoders.HashEncoder",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.rag.encoders.OnnxReranker",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.rag.encoders.LexicalReranker",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.rag.encoders.MicroBatcher",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.encoders",
+   "dst": "py:ua.verify",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.textnorm",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.rag.bm25",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.rag.guards",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.rag.encoders",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.engine",
+   "dst": "py:ua.rag.engine.RagEngine",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.rag.guards",
+   "dst": "py:ua.verify",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.rag.index",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runbooks",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runbooks",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runbooks",
+   "dst": "py:ua.runbooks.Runbooks",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.cache",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.embedder",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.harness",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.loop",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.mcp_host",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.orchestrator",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.plugins.registry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.runbooks",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.services",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.store",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.telemetry",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.triage",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.runtime.Runtime",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.runtime",
+   "dst": "py:ua.rag.encoders",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.security",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.security",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.errors",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.security",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.store",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.services.BaseService",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.services.RagService",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.services.GraphService",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.services.StateService",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.rag.engine",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.graphify",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.services",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.store",
+   "dst": "py:ua.store.StateStore",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.store",
+   "dst": "py:ua.plugins.builtin",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.telemetry",
+   "dst": "py:ua.telemetry.Span",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.telemetry",
+   "dst": "py:ua.telemetry.TraceCtx",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.telemetry",
+   "dst": "py:ua.telemetry.Recorder",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.triage",
+   "dst": "py:ua.config",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.triage",
+   "dst": "py:ua.contracts",
+   "rel": "imports"
+  },
+  {
+   "src": "py:ua.triage",
+   "dst": "py:ua.triage.TriageResult",
+   "rel": "defines"
+  },
+  {
+   "src": "py:ua.triage",
+   "dst": "py:ua.triage.Triage",
+   "rel": "defines"
+  }
+ ],
+ "built_from": [
+  "./src",
+  "./knowledge_vault"
+ ]
+}

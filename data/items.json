@@ -1,0 +1,672 @@
+[
+ {
+  "item_id": "SKU-001",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Solstice Beaker",
+   "category": "Beverage Equipment",
+   "price": 381.03
+  }
+ },
+ {
+  "item_id": "SKU-002",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Nimbus Flask",
+   "category": "Cold Chain Reagents",
+   "price": 327.81
+  }
+ },
+ {
+  "item_id": "SKU-003",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Lattice Beaker",
+   "category": "Industrial Adhesives",
+   "price": 219.97
+  }
+ },
+ {
+  "item_id": "SKU-004",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Tundra Cell Pack",
+   "category": "Medical Consumables",
+   "price": 76.75
+  }
+ },
+ {
+  "item_id": "SKU-005",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Aurora Dressing",
+   "category": "Packaging Film",
+   "price": 446.25
+  }
+ },
+ {
+  "item_id": "SKU-006",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Obsidian Adhesive",
+   "category": "Lab Glassware",
+   "price": 469.52
+  }
+ },
+ {
+  "item_id": "SKU-007",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Tundra Gauze",
+   "category": "Battery Modules",
+   "price": 463.04
+  }
+ },
+ {
+  "item_id": "SKU-008",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Summit Liner",
+   "category": "Cleaning Solvents",
+   "price": 432.22
+  }
+ },
+ {
+  "item_id": "SKU-009",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Pinnacle Solvent",
+   "category": "Beverage Equipment",
+   "price": 284.1
+  }
+ },
+ {
+  "item_id": "SKU-010",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Meridian Solvent",
+   "category": "Cold Chain Reagents",
+   "price": 136.56
+  }
+ },
+ {
+  "item_id": "SKU-011",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Obsidian Gauze",
+   "category": "Industrial Adhesives",
+   "price": 94.64
+  }
+ },
+ {
+  "item_id": "SKU-012",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Cobalt Dressing",
+   "category": "Medical Consumables",
+   "price": 32.85
+  }
+ },
+ {
+  "item_id": "SKU-013",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Nimbus Liner",
+   "category": "Packaging Film",
+   "price": 122.91
+  }
+ },
+ {
+  "item_id": "SKU-014",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Quartz Beaker",
+   "category": "Lab Glassware",
+   "price": 197.45
+  }
+ },
+ {
+  "item_id": "SKU-015",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Ember Canister",
+   "category": "Battery Modules",
+   "price": 445.02
+  }
+ },
+ {
+  "item_id": "SKU-016",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Halcyon Wrap",
+   "category": "Cleaning Solvents",
+   "price": 107.63
+  }
+ },
+ {
+  "item_id": "SKU-017",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Pinnacle Cartridge",
+   "category": "Beverage Equipment",
+   "price": 243.36
+  }
+ },
+ {
+  "item_id": "SKU-018",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Radiant Adhesive",
+   "category": "Cold Chain Reagents",
+   "price": 325.4
+  }
+ },
+ {
+  "item_id": "SKU-019",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Meridian Gauze",
+   "category": "Industrial Adhesives",
+   "price": 316.91
+  }
+ },
+ {
+  "item_id": "SKU-020",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Nimbus Sealant",
+   "category": "Medical Consumables",
+   "price": 66.3
+  }
+ },
+ {
+  "item_id": "SKU-021",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Pinnacle Dressing",
+   "category": "Packaging Film",
+   "price": 38.87
+  }
+ },
+ {
+  "item_id": "SKU-022",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Summit Wrap",
+   "category": "Lab Glassware",
+   "price": 79.09
+  }
+ },
+ {
+  "item_id": "SKU-023",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Mosaic Wrap",
+   "category": "Battery Modules",
+   "price": 447.52
+  }
+ },
+ {
+  "item_id": "SKU-024",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Borealis Cell Pack",
+   "category": "Cleaning Solvents",
+   "price": 345.58
+  }
+ },
+ {
+  "item_id": "SKU-025",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Nimbus Reagent",
+   "category": "Beverage Equipment",
+   "price": 5.69
+  }
+ },
+ {
+  "item_id": "SKU-026",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Meridian Film",
+   "category": "Cold Chain Reagents",
+   "price": 263.7
+  }
+ },
+ {
+  "item_id": "SKU-027",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Borealis Coolant",
+   "category": "Industrial Adhesives",
+   "price": 431.92
+  }
+ },
+ {
+  "item_id": "SKU-028",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Mosaic Gauze",
+   "category": "Medical Consumables",
+   "price": 467.55
+  }
+ },
+ {
+  "item_id": "SKU-029",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Cascade Gauze",
+   "category": "Packaging Film",
+   "price": 385.86
+  }
+ },
+ {
+  "item_id": "SKU-030",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Obsidian Solvent",
+   "category": "Lab Glassware",
+   "price": 99.0
+  }
+ },
+ {
+  "item_id": "SKU-031",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Halcyon Sealant",
+   "category": "Battery Modules",
+   "price": 160.25
+  }
+ },
+ {
+  "item_id": "SKU-032",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Mosaic Pipette Set",
+   "category": "Cleaning Solvents",
+   "price": 451.08
+  }
+ },
+ {
+  "item_id": "SKU-033",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Radiant Gauze",
+   "category": "Beverage Equipment",
+   "price": 168.55
+  }
+ },
+ {
+  "item_id": "SKU-034",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Halcyon Canister",
+   "category": "Cold Chain Reagents",
+   "price": 25.13
+  }
+ },
+ {
+  "item_id": "SKU-035",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Meridian Pipette Set",
+   "category": "Industrial Adhesives",
+   "price": 300.62
+  }
+ },
+ {
+  "item_id": "SKU-036",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Ember Wrap",
+   "category": "Medical Consumables",
+   "price": 267.9
+  }
+ },
+ {
+  "item_id": "SKU-037",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Mosaic Flask",
+   "category": "Packaging Film",
+   "price": 148.64
+  }
+ },
+ {
+  "item_id": "SKU-038",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Zephyr Cell Pack",
+   "category": "Lab Glassware",
+   "price": 247.32
+  }
+ },
+ {
+  "item_id": "SKU-039",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Quartz Wrap",
+   "category": "Battery Modules",
+   "price": 110.93
+  }
+ },
+ {
+  "item_id": "SKU-040",
+  "kind": "sku",
+  "state": "active",
+  "data": {
+   "name": "Meridian Liner",
+   "category": "Cleaning Solvents",
+   "price": 201.27
+  }
+ },
+ {
+  "item_id": "LOT-88001",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-001",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88008",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-036",
+   "qty": 480
+  }
+ },
+ {
+  "item_id": "LOT-88015",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-040",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88022",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-017",
+   "qty": 240
+  }
+ },
+ {
+  "item_id": "LOT-88029",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-029",
+   "qty": 480
+  }
+ },
+ {
+  "item_id": "LOT-88036",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-006",
+   "qty": 240
+  }
+ },
+ {
+  "item_id": "LOT-88043",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-027",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88050",
+  "kind": "lot",
+  "state": "recalled",
+  "data": {
+   "sku": "SKU-038",
+   "qty": 120
+  }
+ },
+ {
+  "item_id": "LOT-88057",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-020",
+   "qty": 240
+  }
+ },
+ {
+  "item_id": "LOT-88064",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-015",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88071",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-011",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88078",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-037",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88085",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-004",
+   "qty": 480
+  }
+ },
+ {
+  "item_id": "LOT-88092",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-018",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88099",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-035",
+   "qty": 120
+  }
+ },
+ {
+  "item_id": "LOT-88106",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-016",
+   "qty": 240
+  }
+ },
+ {
+  "item_id": "LOT-88113",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-008",
+   "qty": 480
+  }
+ },
+ {
+  "item_id": "LOT-88120",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-039",
+   "qty": 120
+  }
+ },
+ {
+  "item_id": "LOT-88127",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-037",
+   "qty": 120
+  }
+ },
+ {
+  "item_id": "LOT-88134",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-016",
+   "qty": 120
+  }
+ },
+ {
+  "item_id": "LOT-88141",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-035",
+   "qty": 480
+  }
+ },
+ {
+  "item_id": "LOT-88148",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-027",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88155",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-010",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88162",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-028",
+   "qty": 120
+  }
+ },
+ {
+  "item_id": "LOT-88169",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-029",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88176",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-002",
+   "qty": 480
+  }
+ },
+ {
+  "item_id": "LOT-88183",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-022",
+   "qty": 240
+  }
+ },
+ {
+  "item_id": "LOT-88190",
+  "kind": "lot",
+  "state": "quarantined",
+  "data": {
+   "sku": "SKU-016",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88197",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-032",
+   "qty": 960
+  }
+ },
+ {
+  "item_id": "LOT-88204",
+  "kind": "lot",
+  "state": "released",
+  "data": {
+   "sku": "SKU-016",
+   "qty": 480
+  }
+ }
+]

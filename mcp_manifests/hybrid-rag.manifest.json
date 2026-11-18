@@ -1,0 +1,14 @@
+{
+ "body": {
+  "server": "hybrid-rag",
+  "script": "mcp_servers/rag_server.py",
+  "script_sha256": "6bd5e265fa72314291b9e59293f24e47f0b53acec8d429683fcb3f886a566612",
+  "tools": [
+   {
+    "name": "hybrid_retrieve",
+    "schema_sha256": "100b29d587d158b5d719f31e63b708e2e221d53206059b370308a2bd47be1cb0"
+   }
+  ]
+ },
+ "sig": "53ce20f578c8172729d7518d8077ac61fc1cc2fb4df4bf6a39df18d90a11747a"
+}

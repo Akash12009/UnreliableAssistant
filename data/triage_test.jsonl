@@ -1,0 +1,139 @@
+{"text": "what temperature must SKU-015 be stored at", "label": "HYBRID_RAG"}
+{"text": "what is the shelf life of the item SKU-001", "label": "HYBRID_RAG"}
+{"text": "my email is [EMAIL], archive SKU-026 immediately", "label": "TRANSACTION_EXEC"}
+{"text": "write a javascript loop", "label": "REJECT_OOS"}
+{"text": "call me on [PHONE]. how much is SKU-031 per unit", "label": "HYBRID_RAG"}
+{"text": "[PHONE] is my number, change the price for SKU-010 to 9.99", "label": "TRANSACTION_EXEC"}
+{"text": "overview of POL-04", "label": "HYBRID_RAG"}
+{"text": "tell me something funny", "label": "REJECT_OOS"}
+{"text": "[PHONE] is my number, recall LOT-88113", "label": "TRANSACTION_EXEC"}
+{"text": "what are the steps in SOP-04", "label": "HYBRID_RAG"}
+{"text": "return period under POL-04", "label": "HYBRID_RAG"}
+{"text": "how much is SKU-027 per unit", "label": "HYBRID_RAG"}
+{"text": "my ssn is [SSN]. who is the president of brazil", "label": "REJECT_OOS"}
+{"text": "who checked LOT-88106", "label": "HYBRID_RAG"}
+{"text": "what is 12 plus 30", "label": "REJECT_OOS"}
+{"text": "archive SKU-006 immediately", "label": "TRANSACTION_EXEC"}
+{"text": "[PHONE] is my number, what are the steps in SOP-02", "label": "HYBRID_RAG"}
+{"text": "expiry date of LOT-88064", "label": "HYBRID_RAG"}
+{"text": "return period under POL-08", "label": "HYBRID_RAG"}
+{"text": "my email is [EMAIL], which supplier provides SKU-002", "label": "HYBRID_RAG"}
+{"text": "which supplier provides SKU-029", "label": "HYBRID_RAG"}
+{"text": "reach me at [EMAIL] - what is the capital of spain", "label": "REJECT_OOS"}
+{"text": "overview of POL-07", "label": "HYBRID_RAG"}
+{"text": "call me on [PHONE]. bitcoin price now", "label": "REJECT_OOS"}
+{"text": "return period under POL-07", "label": "HYBRID_RAG"}
+{"text": "what are you able to do", "label": "DIRECT_ANSWER"}
+{"text": "call me on [PHONE]. moq for SKU-033", "label": "HYBRID_RAG"}
+{"text": "who checked LOT-88162", "label": "HYBRID_RAG"}
+{"text": "who has to sign off big orders in POL-04", "label": "HYBRID_RAG"}
+{"text": "who has to sign off big orders in POL-05", "label": "HYBRID_RAG"}
+{"text": "how do I bake bread", "label": "REJECT_OOS"}
+{"text": "can you amend order for SKU-021", "label": "TRANSACTION_EXEC"}
+{"text": "what temperature must SKU-030 be stored at", "label": "HYBRID_RAG"}
+{"text": "reach me at [EMAIL] - expiry date of LOT-88008", "label": "HYBRID_RAG"}
+{"text": "what are the steps in SOP-04", "label": "HYBRID_RAG"}
+{"text": "current state of batch LOT-88148", "label": "HYBRID_RAG"}
+{"text": "show me how to use you", "label": "DIRECT_ANSWER"}
+{"text": "set LOT-88183 to quarantined", "label": "TRANSACTION_EXEC"}
+{"text": "hi, quick question first", "label": "DIRECT_ANSWER"}
+{"text": "current state of batch LOT-88120", "label": "HYBRID_RAG"}
+{"text": "i need some help", "label": "DIRECT_ANSWER"}
+{"text": "thanks so much", "label": "DIRECT_ANSWER"}
+{"text": "great, thank you", "label": "DIRECT_ANSWER"}
+{"text": "where is SKU-015 kept", "label": "HYBRID_RAG"}
+{"text": "[PHONE] is my number, submit price change form for SKU-014", "label": "TRANSACTION_EXEC"}
+{"text": "what is SOP-03 about", "label": "HYBRID_RAG"}
+{"text": "[PHONE] is my number, suggest a good book", "label": "REJECT_OOS"}
+{"text": "overview of POL-02", "label": "HYBRID_RAG"}
+{"text": "contact: [EMAIL]. what is SOP-10 about", "label": "HYBRID_RAG"}
+{"text": "change the price for SKU-023 to 9.99", "label": "TRANSACTION_EXEC"}
+{"text": "details about SKU-006", "label": "HYBRID_RAG"}
+{"text": "what is the shelf life of the item SKU-035", "label": "HYBRID_RAG"}
+{"text": "set LOT-88064 to quarantined", "label": "TRANSACTION_EXEC"}
+{"text": "reach me at [EMAIL] - details about SKU-036", "label": "HYBRID_RAG"}
+{"text": "archive SKU-017 immediately", "label": "TRANSACTION_EXEC"}
+{"text": "set LOT-88106 to quarantined", "label": "TRANSACTION_EXEC"}
+{"text": "current state of batch LOT-88071", "label": "HYBRID_RAG"}
+{"text": "how much is SKU-005 per unit", "label": "HYBRID_RAG"}
+{"text": "which supplier provides SKU-026", "label": "HYBRID_RAG"}
+{"text": "who checked LOT-88015", "label": "HYBRID_RAG"}
+{"text": "my ssn is [SSN]. details about SKU-036", "label": "HYBRID_RAG"}
+{"text": "good afternoon", "label": "DIRECT_ANSWER"}
+{"text": "transition LOT-88148 to recalled", "label": "TRANSACTION_EXEC"}
+{"text": "return period under POL-08", "label": "HYBRID_RAG"}
+{"text": "what is SOP-01 about", "label": "HYBRID_RAG"}
+{"text": "moq for SKU-022", "label": "HYBRID_RAG"}
+{"text": "hello again", "label": "DIRECT_ANSWER"}
+{"text": "can you amend order for SKU-037", "label": "TRANSACTION_EXEC"}
+{"text": "reach me at [EMAIL] - set LOT-88022 to quarantined", "label": "TRANSACTION_EXEC"}
+{"text": "contact: [EMAIL]. who has to sign off big orders in POL-07", "label": "HYBRID_RAG"}
+{"text": "where is SKU-015 kept", "label": "HYBRID_RAG"}
+{"text": "set LOT-88183 to quarantined", "label": "TRANSACTION_EXEC"}
+{"text": "can you amend order for SKU-002", "label": "TRANSACTION_EXEC"}
+{"text": "where is SKU-032 kept", "label": "HYBRID_RAG"}
+{"text": "cheers", "label": "DIRECT_ANSWER"}
+{"text": "goodbye for now", "label": "DIRECT_ANSWER"}
+{"text": "who has to sign off big orders in POL-08", "label": "HYBRID_RAG"}
+{"text": "my ssn is [SSN]. where is SKU-038 kept", "label": "HYBRID_RAG"}
+{"text": "compose a haiku", "label": "REJECT_OOS"}
+{"text": "[PHONE] is my number, submit price change form for SKU-012", "label": "TRANSACTION_EXEC"}
+{"text": "transition LOT-88134 to recalled", "label": "TRANSACTION_EXEC"}
+{"text": "can you amend order for SKU-009", "label": "TRANSACTION_EXEC"}
+{"text": "please submit a safety release for LOT-88127", "label": "TRANSACTION_EXEC"}
+{"text": "expiry date of LOT-88183", "label": "HYBRID_RAG"}
+{"text": "where is SKU-022 kept", "label": "HYBRID_RAG"}
+{"text": "please submit a safety release for LOT-88057", "label": "TRANSACTION_EXEC"}
+{"text": "change the price for SKU-035 to 9.99", "label": "TRANSACTION_EXEC"}
+{"text": "what is the shelf life of the item SKU-026", "label": "HYBRID_RAG"}
+{"text": "current state of batch LOT-88176", "label": "HYBRID_RAG"}
+{"text": "please submit a safety release for LOT-88162", "label": "TRANSACTION_EXEC"}
+{"text": "what's the weather like in tokyo", "label": "REJECT_OOS"}
+{"text": "how much is SKU-025 per unit", "label": "HYBRID_RAG"}
+{"text": "reach me at [EMAIL] - details about SKU-018", "label": "HYBRID_RAG"}
+{"text": "archive SKU-030 immediately", "label": "TRANSACTION_EXEC"}
+{"text": "recall LOT-88022", "label": "TRANSACTION_EXEC"}
+{"text": "what temperature must SKU-011 be stored at", "label": "HYBRID_RAG"}
+{"text": "call me on [PHONE]. submit price change form for SKU-013", "label": "TRANSACTION_EXEC"}
+{"text": "how much is SKU-038 per unit", "label": "HYBRID_RAG"}
+{"text": "details about SKU-025", "label": "HYBRID_RAG"}
+{"text": "expiry date of LOT-88015", "label": "HYBRID_RAG"}
+{"text": "overview of POL-08", "label": "HYBRID_RAG"}
+{"text": "moq for SKU-037", "label": "HYBRID_RAG"}
+{"text": "recall LOT-88015", "label": "TRANSACTION_EXEC"}
+{"text": "what are the steps in SOP-01", "label": "HYBRID_RAG"}
+{"text": "my email is [EMAIL], transition LOT-88204 to recalled", "label": "TRANSACTION_EXEC"}
+{"text": "what are the steps in SOP-04", "label": "HYBRID_RAG"}
+{"text": "submit price change form for SKU-012", "label": "TRANSACTION_EXEC"}
+{"text": "transition LOT-88064 to recalled", "label": "TRANSACTION_EXEC"}
+{"text": "how far is the moon", "label": "REJECT_OOS"}
+{"text": "overview of POL-03", "label": "HYBRID_RAG"}
+{"text": "what is SOP-04 about", "label": "HYBRID_RAG"}
+{"text": "return period under POL-06", "label": "HYBRID_RAG"}
+{"text": "call me on [PHONE]. moq for SKU-026", "label": "HYBRID_RAG"}
+{"text": "are you a bot", "label": "DIRECT_ANSWER"}
+{"text": "change the price for SKU-031 to 9.99", "label": "TRANSACTION_EXEC"}
+{"text": "submit price change form for SKU-028", "label": "TRANSACTION_EXEC"}
+{"text": "change the price for SKU-027 to 9.99", "label": "TRANSACTION_EXEC"}
+{"text": "which supplier provides SKU-004", "label": "HYBRID_RAG"}
+{"text": "can you amend order for SKU-019", "label": "TRANSACTION_EXEC"}
+{"text": "[PHONE] is my number, what is the shelf life of the item SKU-035", "label": "HYBRID_RAG"}
+{"text": "transition LOT-88078 to recalled", "label": "TRANSACTION_EXEC"}
+{"text": "what is the shelf life of the item SKU-023", "label": "HYBRID_RAG"}
+{"text": "contact: [EMAIL]. what temperature must SKU-004 be stored at", "label": "HYBRID_RAG"}
+{"text": "who checked LOT-88057", "label": "HYBRID_RAG"}
+{"text": "who checked LOT-88092", "label": "HYBRID_RAG"}
+{"text": "please submit a safety release for LOT-88176", "label": "TRANSACTION_EXEC"}
+{"text": "archive SKU-031 immediately", "label": "TRANSACTION_EXEC"}
+{"text": "[PHONE] is my number, translate hello into german", "label": "REJECT_OOS"}
+{"text": "my email is [EMAIL], what temperature must SKU-035 be stored at", "label": "HYBRID_RAG"}
+{"text": "who has to sign off big orders in POL-03", "label": "HYBRID_RAG"}
+{"text": "current state of batch LOT-88106", "label": "HYBRID_RAG"}
+{"text": "recall LOT-88176", "label": "TRANSACTION_EXEC"}
+{"text": "which supplier provides SKU-008", "label": "HYBRID_RAG"}
+{"text": "please submit a safety release for LOT-88036", "label": "TRANSACTION_EXEC"}
+{"text": "what is SOP-10 about", "label": "HYBRID_RAG"}
+{"text": "call me on [PHONE]. recall LOT-88001", "label": "TRANSACTION_EXEC"}
+{"text": "greetings", "label": "DIRECT_ANSWER"}
+{"text": "my ssn is [SSN]. moq for SKU-005", "label": "HYBRID_RAG"}
+{"text": "expiry date of LOT-88078", "label": "HYBRID_RAG"}

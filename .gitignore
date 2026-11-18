@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+models/*/model*.onnx
+models/triage.npz
+index/
+index.lkg/
+data/state.db*
+eval/results/*.json
+.pytest_cache/

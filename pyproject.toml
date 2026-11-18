@@ -1,0 +1,28 @@
+[project]
+name = "unreliable-assistant"
+version = "1.0.0"
+description = "The Unreliable Assistant -> Enterprise Grade (MCP, plugins, 3-stage hybrid RAG)"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi", "uvicorn", "pydantic>=2", "pluggy", "mcp<2", "httpx", "numpy", "nltk",
+  "rank-bm25", "faiss-cpu", "onnxruntime", "tokenizers", "redis", "pyyaml",
+  "opentelemetry-sdk", "opentelemetry-exporter-otlp-proto-grpc",
+  "streamlit", "pandas", "plotly", "graphviz", "pillow", "pytest", "pytest-asyncio",
+]
+
+[project.entry-points."ua.plugins"]
+pii_redactor = "ua.plugins.builtin:PiiRedactor"
+injection_shield = "ua.plugins.builtin:InjectionShield"
+circuit_breaker = "ua.plugins.builtin:CircuitBreakerPlugin"
+ragas_auditor = "ua.plugins.builtin:RagasAuditor"
+otel_exporter = "ua.plugins.builtin:OtelExporter"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+asyncio_default_fixture_loop_scope = "session"
+asyncio_default_test_loop_scope = "session"

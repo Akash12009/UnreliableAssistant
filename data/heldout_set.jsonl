@@ -1,0 +1,37 @@
+{"qid": "HO-001", "type": "factoid", "question": "Could you tell me what the Pinnacle Dressing sells for?", "key_facts": ["38.87"], "gold_chunks": ["SKU-021"], "reference": ""}
+{"qid": "HO-002", "type": "factoid", "question": "How long will SKU-010 stay good in storage?", "key_facts": ["12 months"], "gold_chunks": ["SKU-010"], "reference": ""}
+{"qid": "HO-003", "type": "factoid", "question": "Which company do we buy the Meridian Film from?", "key_facts": ["Granite Packaging"], "gold_chunks": ["SKU-026"], "reference": ""}
+{"qid": "HO-004", "type": "factoid", "question": "Where in our network is SKU-004 held?", "key_facts": ["Rotterdam-2"], "gold_chunks": ["SKU-004"], "reference": ""}
+{"qid": "HO-005", "type": "factoid", "question": "What's the smallest order we can place for SKU-005?", "key_facts": ["24"], "gold_chunks": ["SKU-005"], "reference": ""}
+{"qid": "HO-006", "type": "factoid", "question": "Is LOT-88092 cleared for release?", "key_facts": ["quarantined"], "gold_chunks": ["LOT-88092"], "reference": ""}
+{"qid": "HO-007", "type": "factoid", "question": "Which inspector signed off on LOT-88204?", "key_facts": ["R. Castillo"], "gold_chunks": ["LOT-88204"], "reference": ""}
+{"qid": "HO-008", "type": "factoid", "question": "By when must LOT-88015 be used?", "key_facts": ["2027-09-28"], "gold_chunks": ["LOT-88015"], "reference": ""}
+{"qid": "HO-009", "type": "factoid", "question": "How many days do customers have to send back items under POL-07?", "key_facts": ["45 days"], "gold_chunks": ["POL-07"], "reference": ""}
+{"qid": "HO-010", "type": "factoid", "question": "Which role has to approve an order over $1,000 per POL-01?", "key_facts": ["Operations Director"], "gold_chunks": ["POL-01"], "reference": ""}
+{"qid": "HO-011", "type": "factoid", "question": "For how many years must we keep return records under POL-05?", "key_facts": ["3 years"], "gold_chunks": ["POL-05"], "reference": ""}
+{"qid": "HO-012", "type": "factoid", "question": "How many steps does SOP-11 have?", "key_facts": ["8"], "gold_chunks": ["SOP-11"], "reference": ""}
+{"qid": "HO-013", "type": "complex", "question": "At what temperatures should materials be kept under SOP-10?", "key_facts": ["-5", "5"], "gold_chunks": ["SOP-10"], "reference": ""}
+{"qid": "HO-014", "type": "complex", "question": "Who do we escalate to under SOP-01 if something deviates?", "key_facts": ["Safety Officer"], "gold_chunks": ["SOP-01"], "reference": ""}
+{"qid": "HO-015", "type": "complex", "question": "Would it be okay to hold SKU-035 at 23\u00b0C?", "key_facts": ["5", "20"], "gold_chunks": ["SKU-035"], "reference": ""}
+{"qid": "HO-016", "type": "summary", "question": "I'm a new hire; what should I know about SOP-07?", "key_facts": ["6", "Quality Director"], "gold_chunks": ["SOP-07"], "reference": ""}
+{"qid": "HO-017", "type": "summary", "question": "Overview of the Tundra Gauze please.", "key_facts": ["Atlas Biochem", "463.04"], "gold_chunks": ["SKU-007"], "reference": ""}
+{"qid": "HO-018", "type": "multihop", "question": "Who signs off on big purchases of the Borealis Cell Pack?", "key_facts": ["Regional Manager"], "gold_chunks": ["SKU-024", "POL-08"], "reference": ""}
+{"qid": "HO-019", "type": "multihop", "question": "What return window applies to SKU-037?", "key_facts": ["60 days"], "gold_chunks": ["SKU-037", "POL-05"], "reference": ""}
+{"qid": "HO-020", "type": "multihop", "question": "If the storage of LOT-88050 goes wrong, whom do we alert and how quickly?", "key_facts": ["Operations Director", "24"], "gold_chunks": ["LOT-88050", "SOP-06"], "reference": ""}
+{"qid": "HO-021", "type": "negative", "question": "What colour is SKU-030?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-022", "type": "negative", "question": "Does SKU-017 have a recycling certification?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-023", "type": "negative", "question": "What is the weight of the Halcyon Canister?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-024", "type": "negative", "question": "Who designed the Nimbus Flask?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-025", "type": "negative", "question": "How many units of SKU-003 were sold last year?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-026", "type": "negative", "question": "What is the lead time for SKU-021?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-027", "type": "negative", "question": "What is the warranty on SKU-010?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-028", "type": "negative", "question": "Who is the plant manager at Rotterdam-2?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-029", "type": "negative", "question": "What is the price of SKU-555?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-030", "type": "negative", "question": "Who inspected LOT-11111?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-031", "type": "negative", "question": "Summarize POL-55.", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-032", "type": "negative", "question": "What should I cook tonight?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-033", "type": "negative", "question": "Who wrote Hamlet?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-034", "type": "negative", "question": "How do I reset my phone?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-035", "type": "negative", "question": "What's the boiling point of water?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-036", "type": "negative", "question": "Draft an email to my landlord.", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}
+{"qid": "HO-037", "type": "negative", "question": "Is the moon made of cheese?", "key_facts": [], "gold_chunks": [], "reference": "ABSTAIN"}

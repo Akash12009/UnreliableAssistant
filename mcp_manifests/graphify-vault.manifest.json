@@ -1,0 +1,14 @@
+{
+ "body": {
+  "server": "graphify-vault",
+  "script": "mcp_servers/graphify_server.py",
+  "script_sha256": "86282e9713c785926547d7220cf626ad8e4d8a9a6848c340c63586c24b5f2f8c",
+  "tools": [
+   {
+    "name": "graph_subgraph",
+    "schema_sha256": "d6c8ea82e943ac526860440a6fe80f54f60fdabe2ffb51f5116b33d8a23697bb"
+   }
+  ]
+ },
+ "sig": "182fb9bde8ef39e1e42b7aa76eb4ff29468af0a355f38a8cf4d8e8e4e30e0e7e"
+}

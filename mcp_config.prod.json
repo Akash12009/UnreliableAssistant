@@ -1,0 +1,15 @@
+{
+  "_comment": "ADR-007: all servers use Streamable HTTP in load-test/production so FastAPI workers do not each spawn a stdio subprocess holding a full index copy.",
+  "mcpServers": {
+    "hybrid-rag": {"url": "http://rag-svc:8080/mcp", "transport": "streamable-http", "timeout_ms": 150, "pool_size": 64},
+    "state-store": {"url": "http://state-svc:8081/mcp", "transport": "streamable-http", "pool_size": 200},
+    "graphify-vault": {"url": "http://graph-svc:8082/mcp", "transport": "streamable-http", "pool_size": 64}
+  },
+  "plugins": [
+    {"name": "pii_redactor", "stage": "PRE_EXECUTION", "priority": 10, "fail_closed": true},
+    {"name": "injection_shield", "stage": "PRE_EXECUTION", "priority": 20, "fail_closed": true},
+    {"name": "circuit_breaker", "stage": "TOOL_DISPATCH", "priority": 10, "max_identical_calls": 2},
+    {"name": "ragas_auditor", "stage": "POST_EXECUTION", "priority": 10, "min_faithfulness": 0.92},
+    {"name": "otel_exporter", "stage": "ALL_SPANS", "endpoint": "http://otel-collector:4317"}
+  ]
+}

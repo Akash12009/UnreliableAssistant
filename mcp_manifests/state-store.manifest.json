@@ -1,0 +1,46 @@
+{
+ "body": {
+  "server": "state-store",
+  "script": "mcp_servers/state_server.py",
+  "script_sha256": "f6dae2f0b228ffed9e480430d3f4fc7a33c206b2a0aad5b676e5ddd11f326358",
+  "tools": [
+   {
+    "name": "lookup_item",
+    "schema_sha256": "db0afa3ba858ff13ccce6041d00fe94d13c3f2818fce2e98e50770d31896fe1e"
+   },
+   {
+    "name": "get_session_facts",
+    "schema_sha256": "dfe9a090e336226db476d012ee43de0459ffa653cab77f3490a8e07204535c9d"
+   },
+   {
+    "name": "put_session_fact",
+    "schema_sha256": "e206d91c1ff2dddb7f2a154d1ca5daa8caa7e532cec0e22ee25f82d2ccb1ec37"
+   },
+   {
+    "name": "submit_form",
+    "schema_sha256": "666e223dd04c661f6a3195f5a0b4507396fe74478acca38beb556e6fd5915ef8"
+   },
+   {
+    "name": "transition_workflow",
+    "schema_sha256": "0db9c9742bb7d65752773416299d6005a984d59051982fb47032c56d5654360f"
+   },
+   {
+    "name": "audit_append",
+    "schema_sha256": "9816db9856832fdbcaa8b6fc2214cb776f6abbb0cf05c90b270fb574a229e58c"
+   },
+   {
+    "name": "hitl_decide",
+    "schema_sha256": "33f5458ccdd50e006b0bccf59f9ab0070431f25c4824de17c21ed583144fb3da"
+   },
+   {
+    "name": "hitl_list",
+    "schema_sha256": "58dd8f97ad9353e1fe1b7885d74153cd67a4fd020ed135c5b91263315929277d"
+   },
+   {
+    "name": "audit_verify",
+    "schema_sha256": "a34a664f6db561bbb6c0a4e41cec380014a4f4af4cae39dfa669df1a3f80ca0d"
+   }
+  ]
+ },
+ "sig": "a9a6dcb01c4dc24bc6a6654e84ffe2cdde7c2090c12c048c93d5f6673cef4058"
+}
